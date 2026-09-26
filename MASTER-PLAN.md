@@ -117,6 +117,14 @@ Every major addition should answer at least one question:
 
 If it does none of these, question whether it belongs.
 
+## Persistent Workshop Records
+
+The creative workshop is maintained in the repository, not only in conversation. Each phase has a persistent checklist/decision record. Brainstorming is separated from approved canon so future sessions can resume without relying on chat memory.
+
+- **Phase 0:** `00-CREATIVE-DNA/README.md`
+
+**Current Phase 0 status:** IN PROGRESS.
+
 ## Immediate Next Task
 
 **PHASE 0 — CREATIVE DNA**
