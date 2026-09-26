@@ -15,7 +15,7 @@ Conversation brainstorming does not automatically become canon. A decision becom
 - [x] Adventure philosophy — started
 - [x] World feeling — approved foundation
 - [x] Comedy identity — approved foundation
-- [ ] Serious/emotional storytelling
+- [x] Serious/emotional storytelling — approved foundation
 - [ ] Mystery identity
 - [ ] Core themes
 - [ ] Philosophical questions
@@ -111,6 +111,57 @@ Humor can emerge from ordinary human behavior: pride, friendship, embarrassment,
 ### 28. Gopal Can Be the Joke
 Gopal does not need to be the coolest person in every situation. He can misunderstand things, fail at something, become the subject of rumors, lose an argument, create an embarrassing memory, be underestimated or become famous for something he never intended. Sometimes the funniest thing about Gopal should be that he does not realize he is being funny.
 
+### 29. Emotion Must Be Earned
+Major emotional moments should grow from established characters, relationships, choices, experiences and consequences. The story should not manufacture sadness merely because a scene is supposed to be sad.
+
+### 30. Small Emotions Matter
+Not every powerful emotional moment needs death, catastrophe or tragedy. Goodbyes, reunions, kindness, regret, loneliness, embarrassment, failure, forgiveness, quiet realization and ordinary moments can carry enormous emotional weight.
+
+### 31. Characters Are Not Suffering Machines
+Pain should reveal character, change relationships, expose the world, create consequences or force meaningful choices. Suffering should not exist merely to make the audience cry.
+
+### 32. Joy Makes Pain Stronger
+The story should give readers genuine reasons to love characters, places, routines and relationships before asking them to experience loss, danger or heartbreak. Happiness is not filler; it creates emotional stakes.
+
+### 33. Consequences Remain
+Major events should leave consequences in people, relationships, places and the wider world. Emotional climaxes should not simply reset everything to normal.
+
+### 34. People Express Emotion Differently
+Characters may cry, joke, become silent, become angry, withdraw, over-explain, act normally or pretend nothing happened. Emotional expression should reveal personality rather than follow one universal pattern.
+
+### 35. Show Emotion Through Behavior
+Not every feeling needs to be explained in dialogue. A gesture, expression, repeated habit, object, action, silence or change in routine can communicate what a character cannot say.
+
+### 36. Relationships Grow Through Experience
+Trust, friendship, rivalry, respect, love, resentment and family-like bonds should develop through accumulated experiences and choices. Relationships should change gradually and sometimes unpredictably.
+
+### 37. The Past Changes the Present
+Characters' earlier experiences should influence how they react to current events. Later revelations may also change the reader's understanding of earlier behavior without invalidating the character's humanity.
+
+### 38. Silence Has Space
+Some of the strongest emotional scenes may contain very little dialogue. The manga should trust expressions, pacing, environment, panel composition and silence.
+
+### 39. Emotional Callbacks Matter
+Something funny, ordinary or seemingly insignificant can become deeply moving hundreds of chapters later when its meaning changes. Long-term emotional memory is part of the story's architecture.
+
+### 40. Places Can Carry Emotion
+A ruined house, abandoned road, changed town, old song, preserved object or familiar location can communicate history and feeling without exposition.
+
+### 41. Hope Exists Beside Darkness
+Pain should not make the universe emotionally empty. People can continue living, laughing, dreaming, rebuilding, helping and finding meaning after terrible events.
+
+### 42. Victory Does Not Erase Pain
+Solving a problem does not necessarily undo what happened. Sometimes the meaningful outcome is survival, understanding, reconciliation, rebuilding or choosing what comes next.
+
+### 43. Not Every Relationship Gets Closure
+People can leave, misunderstand one another, disappear or never say what they wanted to say. Some emotional threads may remain unresolved because real lives are not perfectly closed narratives.
+
+### 44. Characters Retain Dignity
+Failure, vulnerability, grief and loss should not reduce a person to a device for audience emotion. Even at their weakest, important characters remain people with agency, contradictions and worth.
+
+### 45. Emotional Truth Over Spectacle
+The size of an event is less important than why it matters to the people experiencing it. A quiet personal moment can matter more than a massive battle.
+
 ## PROVISIONAL
 None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
 
@@ -118,17 +169,24 @@ None yet. Earlier settings, powers, titles, characters and arcs remain non-canon
 None in Phase 0 yet.
 
 ## OPEN QUESTIONS
-1. How should serious and heartbreaking moments be earned?
-2. What kind of mystery experience should readers have?
-3. What themes should keep returning underneath the adventure?
-4. What philosophical questions should the story explore?
-5. What makes Gopal's journey fundamentally his own?
-6. What makes this universe recognizable after only a few chapters?
-7. What permanent creative/originality rules should govern the project?
-8. What single sentence captures the soul of the manga?
-9. How should Phase 0 be synthesized into the final Creative DNA?
+1. What kind of mystery experience should readers have?
+2. What themes should keep returning underneath the adventure?
+3. What philosophical questions should the story explore?
+4. What makes Gopal's journey fundamentally his own?
+5. What makes this universe recognizable after only a few chapters?
+6. What permanent creative/originality rules should govern the project?
+7. What single sentence captures the soul of the manga?
+8. How should Phase 0 be synthesized into the final Creative DNA?
 
 ## Change Log
+### v0.4 — Serious & Emotional Storytelling
+- Approved the serious/emotional storytelling foundation as CANON.
+- Established earned emotion, small emotional moments, meaningful consequences and character-specific emotional expression.
+- Established that joy, humor, ordinary life and attachment should create the foundation that makes later pain meaningful.
+- Established silence, behavior, visual storytelling, emotional callbacks and places as legitimate storytelling tools.
+- Established hope, recovery, rebuilding and imperfect closure alongside grief and loss.
+- Established emotional truth over spectacle and protected character dignity.
+
 ### v0.3 — Comedy Identity
 - Approved the comedy foundation as CANON.
 - Established character-driven, chemistry-driven, situational, visual, world-based and deadpan comedy.
