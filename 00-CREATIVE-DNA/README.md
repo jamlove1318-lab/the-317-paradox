@@ -14,7 +14,7 @@ Conversation brainstorming does not automatically become canon. A decision becom
 - [x] Emotional identity — started
 - [x] Adventure philosophy — started
 - [x] World feeling — approved foundation
-- [ ] Comedy identity
+- [x] Comedy identity — approved foundation
 - [ ] Serious/emotional storytelling
 - [ ] Mystery identity
 - [ ] Core themes
@@ -75,6 +75,42 @@ Not every detail must be a clue, secret, power explanation or future twist. Some
 ### 16. Controlled Freedom
 The master plan protects deep mysteries and long-term architecture without explaining every small detail in advance. New ideas may emerge during writing if they respect established canon and strengthen the story.
 
+### 17. Comedy Is Character-Driven
+Comedy should grow from who people are: habits, obsessions, misunderstandings, bad timing, pride, fear, social awkwardness, strange priorities and contradictions. Different characters should have different comedic identities rather than everyone behaving like the same kind of comedian.
+
+### 18. Comedy Is Also Chemistry
+A major source of humor should be relationships. Group dynamics can create recurring roles—such as a chaos-maker, order-keeper, accidental escalator, quiet observer or perpetually confused person—but these roles should evolve as relationships deepen. The funniest moments should often come from characters knowing one another well enough to react in unexpected ways.
+
+### 19. The World Can Be Funny
+Cultures, institutions and ordinary life can contain absurd customs, bizarre regulations, unusual occupations, strange foods, ridiculous competitions or completely serious traditions that look funny from another perspective. Not every place or culture should be quirky; variety makes the absurd moments feel special.
+
+### 20. Chaos Can Escalate Naturally
+A small objective can spiral into an unrelated disaster through understandable decisions. Comedy can build through cause-and-effect escalation rather than random events appearing only to create a joke.
+
+### 21. Deadpan Is Allowed
+An extraordinary event can be followed by an ordinary reaction. A character may respond to something impossible with irritation, practicality or complete indifference because, to them, some part of it is normal. Contrast can create humor without breaking the world's reality.
+
+### 22. Visual Comedy Matters
+Expressions, reaction panels, awkward silence, composition, background reactions, tiny visual jokes and dramatic setups followed by mundane or ridiculous outcomes should all be part of the manga's visual language. Some jokes should work without dialogue.
+
+### 23. Running Jokes Must Evolve
+A recurring joke should have a life cycle: introduction, recognition, escalation, variation, subversion and/or payoff. Repetition alone is not enough. A joke can eventually become meaningful because readers associate it with a relationship, a period of the journey or a character's growth.
+
+### 24. Comedy Builds Attachment
+Funny recurring behaviors can become part of how readers understand a character or relationship. If that behavior later changes—or disappears in a serious moment—the emotional impact can be stronger because the audience remembers what it used to mean.
+
+### 25. Comedy Can Coexist With Seriousness
+Humor can exist beside fear, struggle and emotional pain, including as a way characters cope with difficult circumstances. But serious scenes must be allowed to breathe. Grief, terror, silence and irreversible moments should not receive forced jokes merely to maintain a constant comedic tone.
+
+### 26. Comedy Must Never Be Mandatory
+The story is allowed to be funny, but it is never required to be funny. A chapter can be hilarious, quiet, frightening, beautiful, uncomfortable, heartbreaking or strange. The emotional truth of the scene determines whether comedy belongs.
+
+### 27. Comedy Comes From Humanity
+Humor can emerge from ordinary human behavior: pride, friendship, embarrassment, ambition, bureaucracy, cultural misunderstandings, social rules, fear, stubbornness and the contradictions between what people believe about themselves and how they actually behave.
+
+### 28. Gopal Can Be the Joke
+Gopal does not need to be the coolest person in every situation. He can misunderstand things, fail at something, become the subject of rumors, lose an argument, create an embarrassing memory, be underestimated or become famous for something he never intended. Sometimes the funniest thing about Gopal should be that he does not realize he is being funny.
+
 ## PROVISIONAL
 None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
 
@@ -82,18 +118,25 @@ None yet. Earlier settings, powers, titles, characters and arcs remain non-canon
 None in Phase 0 yet.
 
 ## OPEN QUESTIONS
-1. What is the manga's natural comedy language?
-2. How should serious and heartbreaking moments be earned?
-3. What kind of mystery experience should readers have?
-4. What themes should keep returning underneath the adventure?
-5. What philosophical questions should the story explore?
-6. What makes Gopal's journey fundamentally his own?
-7. What makes this universe recognizable after only a few chapters?
-8. What permanent creative/originality rules should govern the project?
-9. What single sentence captures the soul of the manga?
-10. How should Phase 0 be synthesized into the final Creative DNA?
+1. How should serious and heartbreaking moments be earned?
+2. What kind of mystery experience should readers have?
+3. What themes should keep returning underneath the adventure?
+4. What philosophical questions should the story explore?
+5. What makes Gopal's journey fundamentally his own?
+6. What makes this universe recognizable after only a few chapters?
+7. What permanent creative/originality rules should govern the project?
+8. What single sentence captures the soul of the manga?
+9. How should Phase 0 be synthesized into the final Creative DNA?
 
 ## Change Log
+### v0.3 — Comedy Identity
+- Approved the comedy foundation as CANON.
+- Established character-driven, chemistry-driven, situational, visual, world-based and deadpan comedy.
+- Established evolving running jokes and comedy as a tool for character attachment.
+- Established that humor may coexist with serious storytelling but must never be forced into scenes that need emotional space.
+- Established that Gopal can be funny through his own humanity rather than being designed as a permanent comic-relief character.
+- Preserved flexibility so comedy can change naturally with the cast, world and story.
+
 ### v0.2 — Living World Foundation
 - Approved all previously proposed world-feeling ideas.
 - Added deeper rules for living cultures, layered history, memory, knowledge asymmetry, world change, revisit value and independent events.
