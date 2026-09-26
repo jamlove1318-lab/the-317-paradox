@@ -16,7 +16,7 @@ Conversation brainstorming does not automatically become canon. A decision becom
 - [x] World feeling — approved foundation
 - [x] Comedy identity — approved foundation
 - [x] Serious/emotional storytelling — approved foundation
-- [ ] Mystery identity
+- [x] Mystery identity — approved foundation
 - [ ] Core themes
 - [ ] Philosophical questions
 - [ ] Gopal's unique journey
@@ -162,6 +162,51 @@ Failure, vulnerability, grief and loss should not reduce a person to a device fo
 ### 45. Emotional Truth Over Spectacle
 The size of an event is less important than why it matters to the people experiencing it. A quiet personal moment can matter more than a massive battle.
 
+### 46. Mystery Exists at Multiple Scales
+Mysteries can exist in moments, characters, places, arcs, history, the wider world and the deepest layers of the story. Not every mystery needs to connect to the central mystery.
+
+### 47. Curiosity Over Confusion
+A mystery should make readers want to understand something, not merely withhold information. Even when the answer is hidden, the underlying situation should have internal logic.
+
+### 48. Answers Create Meaning
+A strong revelation should do more than provide information. It should deepen earlier events, recontextualize characters, places, objects or choices, and make previous details feel more significant.
+
+### 49. Theories Need Evidence
+Readers should have enough information to form reasonable theories. Surprising answers should feel supported in retrospect rather than appearing because the rules changed.
+
+### 50. Knowledge Can Be Uneven
+The reader, Gopal and other characters may possess different pieces of information. The story can deliberately reveal something to one group before another, creating dramatic irony, anticipation or reinterpretation.
+
+### 51. Unanswered Does Not Mean Forgotten
+Long-running mysteries may remain unresolved for a very long time, but important questions should be tracked so that delayed answers remain intentional.
+
+### 52. Ordinary Things Can Hide Extraordinary Questions
+Mystery can begin with ordinary behavior, objects, customs, places, words or routines. Not every mystery needs an ancient artifact or secret organization.
+
+### 53. Emotional Mysteries Matter
+Some mysteries concern feelings and relationships: why someone left, why someone refuses to return, why a person forgave another, why someone remembers an event differently, or what a character cannot bring themselves to say.
+
+### 54. Some Mysteries May Remain Mysterious
+Not every phenomenon requires a complete explanation. Some things may be partially understood, culturally interpreted in different ways, impossible to verify or fundamentally strange. Wonder should survive explanation.
+
+### 55. False Assumptions Must Be Fair
+The audience may confidently believe something that later proves incomplete or wrong, but the story should have provided enough evidence for that belief to be reasonable. Revelations should feel like discovery rather than cheating.
+
+### 56. Foreshadowing Has Depth
+A clue may initially look like atmosphere, later become suspicious, later become important, and eventually reveal a connection to something much larger. Rereading should uncover additional meaning.
+
+### 57. Mystery Does Not Own the Entire World
+Not everything is a clue. Some people, places, objects, customs and events exist simply because the world is alive. Preserving ordinary reality prevents the mystery architecture from making the universe feel artificial.
+
+### 58. Revelations Can Be Seen Before They Are Understood
+Readers may witness an event long before they understand its significance. Later information can supply context rather than simply reveal a previously hidden scene.
+
+### 59. The Best Answers Change Perspective
+The most powerful revelations should sometimes change how readers understand what they already knew. An answer should have the potential to reshape the meaning of the past rather than merely add another fact.
+
+### 60. Mystery Must Meet Emotion
+When a mystery concerns a person's deepest pain, its answer should matter emotionally. When it concerns ancient history or the structure of the world, its revelation should eventually affect the lives and choices of people living in the present.
+
 ## PROVISIONAL
 None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
 
@@ -169,16 +214,25 @@ None yet. Earlier settings, powers, titles, characters and arcs remain non-canon
 None in Phase 0 yet.
 
 ## OPEN QUESTIONS
-1. What kind of mystery experience should readers have?
-2. What themes should keep returning underneath the adventure?
-3. What philosophical questions should the story explore?
-4. What makes Gopal's journey fundamentally his own?
-5. What makes this universe recognizable after only a few chapters?
-6. What permanent creative/originality rules should govern the project?
-7. What single sentence captures the soul of the manga?
-8. How should Phase 0 be synthesized into the final Creative DNA?
+1. What themes should keep returning underneath the adventure?
+2. What philosophical questions should the story explore?
+3. What makes Gopal's journey fundamentally his own?
+4. What makes this universe recognizable after only a few chapters?
+5. What permanent creative/originality rules should govern the project?
+6. What single sentence captures the soul of the manga?
+7. How should Phase 0 be synthesized into the final Creative DNA?
 
 ## Change Log
+### v0.5 — Mystery Identity
+- Approved the mystery foundation as CANON.
+- Established mysteries at multiple scales without requiring every mystery to connect to one central secret.
+- Established curiosity, internal logic, evidence-based theories and fair false assumptions.
+- Established delayed but intentional answers, layered foreshadowing and reread value.
+- Established unequal knowledge between reader and characters as a storytelling tool.
+- Established that ordinary life can contain mysteries and that some mysteries may remain fundamentally strange.
+- Established that revelations should create meaning, change perspective and eventually intersect with emotional storytelling.
+- Protected the world from becoming an artificial collection of clues by reaffirming that not everything is a mystery.
+
 ### v0.4 — Serious & Emotional Storytelling
 - Approved the serious/emotional storytelling foundation as CANON.
 - Established earned emotion, small emotional moments, meaningful consequences and character-specific emotional expression.
