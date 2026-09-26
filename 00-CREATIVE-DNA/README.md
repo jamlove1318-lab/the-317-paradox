@@ -17,8 +17,8 @@ Conversation brainstorming does not automatically become canon. A decision becom
 - [x] Comedy identity — approved foundation
 - [x] Serious/emotional storytelling — approved foundation
 - [x] Mystery identity — approved foundation
-- [ ] Core themes
-- [ ] Philosophical questions
+- [x] Core themes — approved foundation
+- [x] Philosophical questions — approved foundation
 - [ ] Gopal's unique journey
 - [ ] What makes the universe recognizable
 - [x] Permanent originality rule — foundation established
@@ -206,6 +206,64 @@ The most powerful revelations should sometimes change how readers understand wha
 
 ### 60. Mystery Must Meet Emotion
 When a mystery concerns a person's deepest pain, its answer should matter emotionally. When it concerns ancient history or the structure of the world, its revelation should eventually affect the lives and choices of people living in the present.
+
+
+### 61. Core Themes — Questions Beneath the Adventure
+The story should repeatedly explore philosophical questions without reducing them to one universal answer.
+
+1. **What does true freedom mean?**
+   - Is freedom the absence of restrictions, the ability to choose, the ability to accept responsibility, or something else?
+2. **Is truth always worth knowing?**
+   - Can truth liberate, destroy, heal or create responsibility?
+3. **Who has the right to define truth?**
+   - Individuals, governments, historians, cultures, survivors—or evidence itself?
+4. **What makes a life meaningful?**
+   - Achievement, relationships, discovery, contribution, survival, experience, love, legacy—or simply living?
+5. **Can people change without losing themselves?**
+   - How much can someone transform while remaining the same person?
+6. **What do we owe people we never met?**
+   - The dead, ancestors, future generations, strangers, civilizations and people harmed by systems we inherited.
+7. **Can opposing people both be genuinely human?**
+   - Can two people sincerely believe they are protecting something valuable while standing against each other?
+8. **What happens when good dreams collide?**
+   - What if nobody is evil, nobody is entirely wrong, and someone's dream still destroys someone else's?
+9. **What does a person owe the world—and what does the world owe the person?**
+   - This can explore duty, society, individuality, exploitation, protection and responsibility.
+10. **What does it mean to belong?**
+    - Can someone belong to multiple worlds? Can someone choose their family? Can someone belong nowhere?
+11. **What remains of a person after they are gone?**
+    - Memory, influence, descendants, stories, places, inventions, relationships—or nothing tangible at all?
+12. **Is understanding the same as accepting?**
+    - Can you understand someone without forgiving them? Can you forgive without understanding? Can you move forward without either?
+
+#### Overarching Question
+**What does it mean to live a life that is truly your own?**
+
+The answer must not be predetermined. A person may find meaning in freedom, responsibility, love, discovery, sacrifice, belonging, solitude, legacy or something else. Different lives can produce different answers.
+
+#### Thematic Principle
+These questions should live inside characters, relationships, cultures, conflicts and choices rather than becoming philosophy lectures. Characters may embody different answers, contradict themselves, change their minds or never resolve the question. The story can leave readers genuinely uncertain.
+
+## PROVISIONAL
+None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
+
+## REJECTED
+None in Phase 0 yet.
+
+## OPEN QUESTIONS
+1. What makes Gopal's journey fundamentally his own?
+2. What makes this universe recognizable after only a few chapters?
+3. What permanent creative/originality rules should govern the project?
+4. What single sentence captures the soul of the manga?
+5. How should Phase 0 be synthesized into the final Creative DNA?
+
+## Change Log
+### v0.6 — Core Themes & Philosophical Questions
+- Approved the Core Themes as CANON.
+- Approved twelve recurring philosophical questions beneath the adventure.
+- Established an overarching question about what it means to live a life that is truly one's own.
+- Established that the story should explore these questions through characters, relationships, cultures, conflicts and choices rather than philosophy lectures.
+- Established that the manga should not force one universal answer onto these questions.
 
 ## PROVISIONAL
 None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
