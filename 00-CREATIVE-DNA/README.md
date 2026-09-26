@@ -19,7 +19,7 @@ Conversation brainstorming does not automatically become canon. A decision becom
 - [x] Mystery identity — approved foundation
 - [x] Core themes — approved foundation
 - [x] Philosophical questions — approved foundation
-- [ ] Gopal's unique journey
+- [x] Gopal's unique journey — foundation approved
 - [ ] What makes the universe recognizable
 - [x] Permanent originality rule — foundation established
 - [ ] One-sentence soul of the manga
@@ -245,10 +245,35 @@ The answer must not be predetermined. A person may find meaning in freedom, resp
 These questions should live inside characters, relationships, cultures, conflicts and choices rather than becoming philosophy lectures. Characters may embody different answers, contradict themselves, change their minds or never resolve the question. The story can leave readers genuinely uncertain.
 
 ## PROVISIONAL
-None yet. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
+- Earlier journey foundations were explored before approval; the approved direction is now CANON: Gopal's unique journey should emerge from who he was before becoming an adventurer, rather than being forced from a preselected archetype or borrowed adventure formula. Earlier settings, powers, titles, characters and arcs remain non-canon unless re-approved.
 
 ## REJECTED
 None in Phase 0 yet.
+
+## CANON — Gopal's Unique Journey
+
+### 62. The Journey Must Emerge From the Person
+Gopal's unique journey should be discovered from who he was before becoming an adventurer, not imposed from a borrowed protagonist archetype. His childhood, formative experiences, desires, fears, contradictions, relationships, choices and failures should naturally reveal why adventure becomes necessary or irresistible to him.
+
+The story should explore the difference between what Gopal thinks he wants, what he desperately wants, what he actually needs, what he fears becoming and what only he can experience. His defining strength should also be capable of creating problems; strength and weakness can grow from the same root.
+
+Gopal should discover the world rather than simply conquer it. His journey may change other people, but the world must continue independently of him. His dream can evolve as his understanding of freedom, truth, meaning, belonging, responsibility and his own life changes.
+
+We will not lock Gopal into a final archetype, dream, biography, power or destination merely because it sounds cool. The journey earns its shape through exploration and later approval.
+
+### Journey-Building Sequence
+1. Who was Gopal before adventure?
+2. What shaped him?
+3. What does he desperately want?
+4. What does he think he wants?
+5. What does he actually need?
+6. What does he fear becoming?
+7. What contradiction defines him?
+8. What can only Gopal experience?
+9. What does the world teach him?
+10. What does Gopal teach the world?
+11. How does his dream change?
+12. Who is Gopal at the end that he could never have been at the beginning?
 
 ## OPEN QUESTIONS
 1. What makes Gopal's journey fundamentally his own?
@@ -258,6 +283,13 @@ None in Phase 0 yet.
 5. How should Phase 0 be synthesized into the final Creative DNA?
 
 ## Change Log
+### v0.7 — Gopal's Unique Journey Foundation
+- Approved the journey-building foundation as CANON.
+- Established that Gopal's journey must emerge from his person rather than a borrowed protagonist archetype.
+- Established the distinction between what Gopal thinks he wants, desperately wants, actually needs and fears becoming.
+- Established that his defining strength may also create problems and that his dream can evolve through experience.
+- Established the twelve-step journey-building sequence.
+
 ### v0.6 — Core Themes & Philosophical Questions
 - Approved the Core Themes as CANON.
 - Approved twelve recurring philosophical questions beneath the adventure.
@@ -272,9 +304,12 @@ None yet. Earlier settings, powers, titles, characters and arcs remain non-canon
 None in Phase 0 yet.
 
 ## OPEN QUESTIONS
-1. What themes should keep returning underneath the adventure?
-2. What philosophical questions should the story explore?
-3. What makes Gopal's journey fundamentally his own?
+1. Who was Gopal before becoming an adventurer?
+2. What formative experiences shaped him?
+3. What does Gopal think he wants versus what he actually needs?
+4. What contradiction, fear and defining strength shape him?
+5. What can only Gopal experience?
+6. What makes this universe recognizable after only a few chapters?
 4. What makes this universe recognizable after only a few chapters?
 5. What permanent creative/originality rules should govern the project?
 6. What single sentence captures the soul of the manga?
