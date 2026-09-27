@@ -65,6 +65,45 @@ The first saga should earn at least one deep friendship before building a large 
 
 The first 40–70 chapters should feel like one connected portion of Gopal's life, not dozens of separate mini-adventures.
 
+## Permanent Companion & Wider-Circle Architecture
+
+Gopal's journey will eventually develop a **fixed permanent core crew of approximately 10–12 people**.
+
+These are not the only important people in the manga.
+
+Many people will enter Gopal's life across different sagas and then remain in their own homes, professions, communities or organizations. They may become lifelong friends, rivals, allies, leaders, scholars, craftsmen, authorities, former enemies or recurring characters.
+
+The permanent companions will join **gradually**, at different times and places, only when their individual stories naturally intersect with Gopal's journey. They will not all be assembled early.
+
+The permanent crew should contain complementary functions such as navigation, cooking, medicine, combat, engineering, scholarship/languages, investigation/archaeology, wildlife knowledge, diplomacy, intelligence, logistics or other original roles. These are broad human functions, not copies of another manga's crew. Not every member must fight, and not every member must have a conventional profession.
+
+Every permanent companion must have:
+- an independent dream
+- a life before Gopal
+- reasons to join
+- relationships with the other companions
+- individual strengths and weaknesses
+- their own story arcs
+- moments of disagreement
+- meaningful growth
+- a reason to remain until the end.
+
+A character does not become permanent merely because the group needs a role. The reader should first care about the person, then discover why their skills belong on the journey.
+
+Some permanent companions may temporarily separate and later return. Their absence should matter.
+
+The wider circle is equally important. People who stay behind are **not discarded characters**. Their lives continue. They can return naturally, sometimes hundreds of chapters later.
+
+Before the manga ends, the final saga will bring together the permanent crew and a large selection of the wider circle. The reunion should be earned by the lives everyone lived, not treated as a checklist of cameos. Some may arrive because of their own goals, communities, countries, responsibilities, friendships or world-scale events; some may not be able to attend.
+
+The final reunion should demonstrate that Gopal's journey changed people and the world around him.
+
+The exact permanent roster is deliberately not finalized yet.
+
+**Target permanent crew: 10–12.**
+
+Detailed rules should be maintained in a dedicated permanent-crew architecture file.
+
 ## World Beyond Mystery
 
 Mystery is one layer of the world, not the world itself.
