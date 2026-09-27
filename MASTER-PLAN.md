@@ -1,9 +1,10 @@
 # Master Plan — Original Manga
 
-**Status:** FOUNDATION v0.1  
+**Status:** FOUNDATION v0.2  
 **Title:** Not finalized  
 **317:** Unassigned / reserved as a possible future mystery  
-**Protagonist:** Gopal
+**Protagonist:** Gopal  
+**Long-form target:** 12–15 major sagas, 45–60 major arcs, with capacity for 1,000+ chapters
 
 ## Core Goal
 
@@ -23,6 +24,8 @@ But we do not reproduce another work's characters, worldbuilding systems, signat
 
 Every inspiration must become a new expression inside our own universe.
 
+This includes power systems: the manga may have a deep, addictive supernatural ability system inspired by the broad appeal of great power-based stories, but it must not reproduce Devil Fruits, Haki, or another work's signature mechanism.
+
 ## The Feeling We Are Building
 
 **Wonder → laughter → curiosity → attachment → adventure → mystery → danger → heartbreak → revelation → shock → hope → wonder again.**
@@ -31,11 +34,23 @@ The world must feel enormous, alive and worth exploring.
 
 The world must not exist only for Gopal's plot. Kingdoms, cultures, characters, conflicts and histories continue to exist when Gopal is nowhere near them.
 
+Humans are only one kind of intelligent people. The universe will contain many original peoples/species, creatures and civilizations, with differences that affect how they experience reality and build societies.
+
+## Long-Form Architecture
+
+The complete persistent architecture is maintained in:
+
+**MASTER-ARCHITECTURE.md**
+
+It defines the long-form development phases, 1,000+ chapter capacity, saga/arc architecture, peoples/species direction, power-system direction, world-liveness rules, mystery/foreshadowing architecture and the canon/provisional workflow.
+
 ## Development Order
 
 ### Phase 0 — Creative DNA
 
 Define emotional identity, themes, tone, humor, seriousness, philosophical questions, distinctiveness and originality rules.
+
+**Current status: IN PROGRESS.**
 
 ### Phase 1 — Title & Identity
 
@@ -49,9 +64,11 @@ Build Gopal from zero: personality, strengths, weaknesses, contradictions, fears
 
 Build continents, oceans, regions, cities, villages, kingdoms, cultures, civilizations, isolated societies, unexplored territories, strange environments, supernatural phenomena, ruins, technology, myths, wildlife and monsters.
 
-### Phase 4 — History
+### Phase 4 — Peoples & Species
 
-Build layers of history: ordinary belief, historical belief, institutional knowledge, ancient knowledge, actual history and truths even the ancient world misunderstood.
+Build many original intelligent peoples/species rather than humans plus cosmetic fantasy variants.
+
+Species should affect biology, senses, lifespan, communication, memory, social structure, architecture, technology, culture, worldview and everyday life.
 
 ### Phase 5 — Power System
 
@@ -59,15 +76,19 @@ Design original rules, sources, categories, limitations, costs, counters, growth
 
 Power should reveal character and create story problems, not merely determine who wins.
 
-### Phase 6 — Characters
+### Phase 6 — History & Mythology
 
-Create main cast, companions, rivals, allies, villains, antiheroes, recurring characters, ordinary people, historical figures and legends. Important characters should have independent reasons to exist.
+Build layers of history: ordinary belief, historical belief, institutional knowledge, ancient knowledge, actual history and truths even the ancient world misunderstood.
 
-### Phase 7 — Factions
+### Phase 7 — Civilizations & Factions
 
 Design governments, kingdoms, explorers, criminal organizations, scientists, religions, revolutionary movements, mercenaries, trading powers, secret organizations, independent territories and ancient organizations. Avoid simplistic good-vs-evil structures.
 
-### Phase 8 — Mystery Architecture
+### Phase 8 — Characters
+
+Create main cast, companions, rivals, allies, villains, antiheroes, recurring characters, ordinary people, historical figures and legends. Important characters should have independent reasons to exist.
+
+### Phase 9 — Mystery Architecture
 
 Create short, arc, long, world, central and final mysteries.
 
@@ -76,19 +97,23 @@ Maintain three layers:
 - **Character Knowledge** — what characters believe or understand.
 - **Author Knowledge** — what is actually true.
 
-### Phase 9 — Foreshadowing System
+### Phase 10 — Foreshadowing System
 
 Track clues, symbols, dialogue, objects, locations, character details, historical references, false assumptions, red herrings, future revelations and payoffs.
 
-### Phase 10 — Story Architecture
+### Phase 11 — Story Architecture
 
-Build **Saga → Arc → Mini-arc → Chapters**. The rhythm can change dramatically between arcs.
+Build **Saga → Arc → Mini-arc → Chapters**.
 
-### Phase 11 — Ending Architecture
+Current capacity target: approximately **12–15 major sagas** and **45–60 major arcs**, with a possible natural total of roughly **900–1,300+ chapters**.
+
+This is capacity, not a quota. Story needs determine length.
+
+### Phase 12 — Ending Architecture
 
 Establish the current planned final destination, ultimate mystery, ultimate truth, Gopal's final transformation, fate of the world, fate of major characters, final image and final line.
 
-### Phase 12 — Chapter 1
+### Phase 13 — Chapter 1
 
 Only after the foundation is strong. Chapter 1 should work as an exciting story while containing seeds that can gain new meaning hundreds of chapters later.
 
@@ -121,14 +146,19 @@ If it does none of these, question whether it belongs.
 
 The creative workshop is maintained in the repository, not only in conversation. Each phase has a persistent checklist/decision record. Brainstorming is separated from approved canon so future sessions can resume without relying on chat memory.
 
-- **Phase 0:** `00-CREATIVE-DNA/README.md`
+- **Master architecture:** MASTER-ARCHITECTURE.md
+- **Phase 0:** 00-CREATIVE-DNA/README.md
 
-**Current Phase 0 status:** IN PROGRESS.
+## Current Direction
 
-## Immediate Next Task
+**Phase 0 — Creative DNA** remains in progress.
 
-**PHASE 0 — CREATIVE DNA**
+After sufficient Phase 0 synthesis:
 
-Then:
+**Title & Identity → Gopal → World → Peoples & Species → Power System → History & Mythology → Civilizations & Factions → Characters → Mysteries → Foreshadowing → Story Architecture → Ending → Chapter 1.**
 
-**Title & Identity → Gopal → World → History → Power System → Characters → Factions → Mysteries → Foreshadowing → Story Architecture → Ending → Chapter 1.**
+The universe should become enormous gradually.
+
+We do not need to know everything today.
+
+We need to know enough to make every future discovery feel like it belongs.
