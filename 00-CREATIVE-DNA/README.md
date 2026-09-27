@@ -755,3 +755,241 @@ Everything in Section 64 is **PROVISIONAL**. Names, town, family structure, chil
 - Developed the emotional logic behind his eventual departure.
 - Preserved uncertainty around the first impossible phenomenon.
 - Established the provisional idea that Gopal leaves home because he loves it, not because he hates it.
+
+
+## PROVISIONAL — The Departure
+
+### 65. The Last Days of Veyra
+Gopal's departure should not begin with destiny. It begins with an ordinary problem that becomes extraordinary because of who Gopal is.
+
+A traveling river-cart arrives in Veyra carrying goods, repair materials and a handful of passengers. Among its cargo is an old navigation object that no one in town considers valuable. Gopal recognizes a marking on it from one of the strange notes and objects he has collected over the years.
+
+He becomes obsessed.
+
+The object is supposed to be going to a distant settlement, but its owner disappears before leaving town.
+
+Gopal decides to return it.
+
+That simple decision becomes his first real journey away from home.
+
+### 66. The First Road
+Gopal initially believes the adventure will last a few days.
+
+Nemi thinks this is ridiculous.
+
+Mira packs far more food than Gopal thinks he needs.
+
+Rajan gives him practical advice instead of a heroic speech.
+
+Ira gives him a blank notebook.
+
+Tovan tells him he will come back within a week.
+
+Gopal confidently predicts that Tovan will be disappointed.
+
+Everyone knows he is probably right about the wrong thing.
+
+The departure is funny, affectionate and slightly uncomfortable.
+
+There is no grand crowd.
+
+No prophecy.
+
+No world waiting for him.
+
+Veyra simply continues existing after he walks away.
+
+That is exactly why the moment matters.
+
+### 67. The First Discovery
+On the road, Gopal discovers that the world is stranger than the stories he heard in Veyra.
+
+The first settlement he reaches has a local tradition of moving every household's front door a few feet once each year.
+
+Nobody considers this strange.
+
+Gopal does.
+
+He investigates.
+
+The explanation is practical, cultural and unexpectedly beautiful.
+
+It teaches him his first major lesson about travel:
+
+**A place can look absurd from the outside and make perfect sense from within.**
+
+He begins recording not only what he sees, but what things mean to the people who live there.
+
+This becomes an early form of the worldview he will eventually develop.
+
+### 68. The First Real Problem
+The navigation object is not simply missing property.
+
+Returning it puts Gopal in the middle of a dispute between two people who remember its history differently.
+
+One believes it was inherited.
+
+Another believes it was stolen generations ago.
+
+Both possess convincing evidence.
+
+Neither is obviously lying.
+
+Gopal initially searches for the single correct answer.
+
+Instead, he discovers something more complicated:
+
+The object has passed through several lives, and every person who carried it added part of its story.
+
+The immediate problem is resolved without giving Gopal a perfect answer.
+
+He leaves with a new question:
+
+**Can something have more than one true history?**
+
+This quietly introduces the larger themes without turning the story into a lecture.
+
+### 69. The First Consequence
+Gopal tries to help the people involved.
+
+He makes a choice.
+
+It helps one person and hurts another.
+
+Nobody is killed.
+
+Nobody becomes a villain.
+
+But someone loses something they genuinely valued.
+
+Gopal is shaken.
+
+For the first time, adventure is not simply:
+
+**interesting things happening to him.**
+
+His choices are beginning to affect other people's lives.
+
+He considers returning home.
+
+Then he realizes that returning home would not undo what happened.
+
+He has to live with it.
+
+That becomes the beginning of adulthood.
+
+### 70. The First Time He Chooses the Road
+Gopal could return to Veyra.
+
+Instead, he decides to continue.
+
+Not because the adventure is easy.
+
+Not because he has discovered his final dream.
+
+Because he has learned something uncomfortable:
+
+**The world is already full of people, choices, histories and consequences.**
+
+If he wants to understand it, he cannot remain a spectator.
+
+The road becomes a choice rather than an escape.
+
+### 71. The First Image of the Wider World
+Near the end of the opening sequence, Gopal reaches a high ridge.
+
+For the first time, he sees beyond the familiar river system.
+
+There are distant lights.
+
+A massive structure on the horizon.
+
+A strange weather formation.
+
+A road splitting into several directions.
+
+And far beyond them, something that should not be visible from that distance.
+
+Gopal stares.
+
+He laughs.
+
+Not because he understands it.
+
+Because he doesn't.
+
+He says something simple:
+
+**“So that's there too.”**
+
+Then he starts walking.
+
+This is the first true promise of the manga:
+
+The world is larger than the story currently being told.
+
+### 72. The Opening Emotional Promise
+The reader should leave the first departure sequence feeling three things simultaneously:
+
+**Home matters.**
+
+**The world is enormous.**
+
+**We have no idea where this is going.**
+
+The adventure should therefore begin with curiosity rather than destiny.
+
+Gopal does not know what his final dream is.
+
+The reader does not know.
+
+And the story does not need to pretend otherwise.
+
+### 73. The First Recurring Pattern
+A recurring structure can quietly emerge:
+
+Gopal notices something ordinary.
+
+He becomes curious.
+
+He asks questions.
+
+He gets involved.
+
+He makes a choice.
+
+The choice has consequences.
+
+He learns something.
+
+The lesson changes how he sees the next place.
+
+This is not a rigid chapter formula. It is a character engine that can later be broken, inverted or abandoned when the story grows.
+
+### 74. What the First Adventure Should NOT Reveal
+The opening should deliberately avoid explaining:
+
+- the ultimate mystery;
+- Gopal's final dream;
+- the complete world map;
+- the final power system;
+- the greatest factions;
+- the meaning of 317;
+- any chosen-one mythology;
+- the ultimate antagonist;
+- the ending.
+
+The first adventure's job is not to explain the universe.
+
+Its job is to make the reader **want to live in it**.
+
+### Status
+Everything in Sections 65–74 is **PROVISIONAL**. The names, object, settlement, exact first conflict and visual details are exploratory. The structural and emotional goals are more important than the current surface details.
+
+### Change Log
+#### v1.0 — Departure and First Road
+- Developed a provisional departure sequence from Veyra.
+- Established that Gopal leaves through a small personal decision rather than prophecy or catastrophe.
+- Introduced the first road, first culturally strange place, first morally complicated problem and first consequence.
+- Established the emotional promise that home matters while the world is much larger.
+- Preserved the mystery architecture by refusing to explain the deepest universe questions at the beginning.
