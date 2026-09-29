@@ -1947,3 +1947,180 @@ These are now the highest-value questions before final story architecture:
 10. **Who is the first genuine companion, and what makes their relationship with Gopal grow naturally rather than through a recruitment scene?**
 
 **Nothing in Pass 4 is canon.**
+
+
+---
+
+## Pass 5 — Stress Test & New Research Findings
+
+**Status: NON-CANON / RESEARCH ONLY**
+
+### Character-first access to a huge world
+
+The Togashi/Kishimoto worldbuilding discussion reinforces that manga needs reader empathy with characters even when the setting is unfamiliar. Their discussion distinguishes manga from games: the reader is watching other people make choices, so character relationships and motivations must carry the experience. citeturn0search3
+
+**Gopal rule:** character desire → action → world exposure → consequence → relationship change → new desire.
+
+The world should therefore be learned through people, not encyclopedia pages.
+
+### Opening design
+
+MANGA Plus's *Kaiju No. 8* editor interview describes an opening that presents a formidable event before explaining the setting, creating curiosity while delaying exposition. citeturn1search2
+
+For Gopal:
+
+**something is already happening → people react → Gopal reacts differently → his choice changes the situation → the consequence survives the chapter.**
+
+Chapter 1 should introduce Gopal through behavior rather than childhood explanation.
+
+### Relationship memory
+
+MANGA Plus's *SPY × FAMILY* editorial discussion emphasizes establishing fundamental character qualities and recognizing that when relationships change, they cannot simply be treated as unchanged later. citeturn1search3
+
+**Gopal rule:** important relationships retain memory. Arguments, trust, embarrassment, betrayal, forgiveness and shared experiences must affect later behavior.
+
+### Characters need lives beyond the plot
+
+The *Jigokuraku* editorial discussion describes characters having extensive internal details that may never all appear explicitly, helping them feel real and capable of acting naturally in the moment. citeturn1search13
+
+**Gopal rule:** every permanent companion should have a private life beyond what the plot requires.
+
+Before making a companion permanent, answer:
+1. What were they doing before Gopal?
+2. What do they want without Gopal?
+3. What would they do if Gopal never arrived?
+4. What does Gopal misunderstand about them?
+5. What do they misunderstand about Gopal?
+6. Why do they stay after their immediate problem ends?
+7. What relationship do they form that does not involve Gopal?
+8. What part of the world becomes visible through their life?
+
+### Ensemble stress test
+
+A multi-protagonist structure can divide page time and weaken the focal character; the *Jigokuraku* editorial discussion explicitly identifies this pacing risk. citeturn1search13
+
+Therefore:
+
+> **Permanent does not mean constantly present.**
+
+The 10–12 permanent companions need rotating narrative attention while retaining continuity.
+
+### Legendary destination stress test
+
+The legendary destination must become a **worldwide culture**, not a queue of treasure hunters.
+
+Possible social ecosystems include:
+- expeditions
+- universities and historians
+- navigation schools
+- fake-map sellers
+- religious interpretations
+- government restrictions
+- smugglers and bounty hunters
+- celebrities
+- skeptics
+- conspiracy communities
+- people who want to reach it
+- people who want to stop anyone reaching it
+- people who profit from the legend without believing it.
+
+The destination also needs a **cost of belief**: different groups should disagree about what reaching it would mean.
+
+### Legendary event rule
+
+A spectacular historical event is not enough. It should leave a **historical wound/question** behind: a contradiction in geography, history, technology, inheritance, migration, politics, natural law, or civilization.
+
+> **The legend survives because the event left the world with a question that still matters.**
+
+### Gopal dream architecture — strengthened
+
+The existing promise/destination/deeper-dream model can now be expressed as:
+
+**Promise** = what Gopal said he would do.  
+**Proof** = what the legendary destination appears to provide.  
+**Purpose** = what Gopal actually wants to accomplish, witness, restore, prove, release, create or make possible.
+
+For most of the manga, readers can mistake **Proof** for Gopal's dream. The later reveal exposes **Purpose**.
+
+Crucial test:
+
+> If the legendary destination were redesigned completely, Gopal's Purpose should still emotionally belong to Gopal.
+
+The destination is the route, not the source, of his dream.
+
+### 1,000+ chapter sustainability test
+
+The story needs independent engines:
+
+1. journey
+2. people
+3. culture
+4. conflict
+5. law
+6. economy
+7. competition
+8. nature
+9. supernatural systems
+10. history
+11. consequences
+12. relationships
+13. Gopal's personal purpose
+14. ultimate ideological conflict
+
+No single mystery or power escalation should carry the whole manga.
+
+### No permanent status quo
+
+Returning to a location is valuable only when meaning changes.
+
+First visit: Gopal is unknown.  
+Later: people remember him.  
+Later still: the place has changed.  
+Later: Gopal has changed.  
+Eventually: the same place means something completely different.
+
+### Escalation and power-system tests
+
+Escalation can be physical, political, emotional, environmental, strategic, informational, social or moral—not only stronger enemies.
+
+The first supernatural layer should emphasize **external possibilities and creative use**. The later spiritual layer should emphasize **internal mastery, perception, intention or understanding**. They must not feel like two levels of the same power ladder.
+
+Gopal's hidden ability must:
+- work before its true meaning is known;
+- appear limited at first;
+- have fair anomalies;
+- connect to history;
+- change the meaning of Gopal's character, not merely his attack strength.
+
+### Ultimate antagonist test
+
+Before canonization, the final antagonist needs:
+- a worldview;
+- a desired future;
+- a reason intelligent people might follow them;
+- a relationship to the legendary event;
+- a relationship to hidden history;
+- a reason to care about Gopal;
+- contradictions and limits;
+- something important they understand better than Gopal.
+
+### Pass 5 synthesis
+
+The architecture now passes the stress test if:
+
+> **Character desire drives the immediate story.**  
+> **The living world creates pressure.**  
+> **The public legendary pursuit connects distant people.**  
+> **History explains why the world became this way.**  
+> **Gopal's hidden Purpose explains why he personally refuses to stop.**  
+> **The ultimate antagonist eventually forces these layers into collision.**
+
+### Next research target
+
+The next focused sprint should investigate these three questions together:
+
+1. What historical event created the world's legendary pursuit?
+2. What is the legendary place actually like, beyond being a destination?
+3. What is Gopal's Purpose behind the Promise and public Proof?
+
+These remain **OPEN / NON-CANON**. All previous research remains preserved.
