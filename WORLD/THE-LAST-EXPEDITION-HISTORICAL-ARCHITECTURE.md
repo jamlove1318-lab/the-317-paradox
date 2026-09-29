@@ -623,3 +623,429 @@ The next design target is:
 > **Build the actual historical people and incidents of the expedition.**
 
 Only after the expedition has its own characters, conflicts, triumphs, disasters, betrayals and consequences should we design exactly what they found.
+
+
+---
+
+# 19. MAJOR REVISION — REN'S DISCOVERY IS A REQUIRED ACCESS KEY
+
+The earlier idea that Gopal and Ren merely discover a clue has been rejected.
+
+### New principle
+
+**What Ren found is itself one of the most important physical requirements for reaching the legendary destination.**
+
+It is not:
+- a hint pointing toward another clue;
+- a fragment of a map whose only purpose is to reveal another map;
+- a symbolic clue;
+- a historical curiosity;
+- disposable evidence.
+
+It is a **load-bearing component of the actual path to the destination**.
+
+### Provisional mechanism
+
+The legendary destination cannot be reached through ordinary navigation alone.
+
+The Last Expedition discovered that access requires a small number of extraordinary physical components, mechanisms, or "keys" that interact with the route itself.
+
+Working category name:
+
+> **PASSAGE KEYS — PROVISIONAL**
+
+The exact number, form, origin, and name are deliberately undecided.
+
+Each one has a real function.
+
+Possessing one does not tell someone where to find the others.
+
+Instead, it gives the holder an actual capability required during the final approach.
+
+For example, a future design may establish that a Passage Key can:
+- reveal a route that physically cannot be mapped;
+- stabilize passage through a dangerous region;
+- make an otherwise inaccessible boundary traversable;
+- synchronize the traveler with a condition required by the destination;
+- or perform some other concrete function.
+
+We will choose the exact mechanism only after designing the destination.
+
+### Why this improves the childhood incident
+
+Gopal and Ren did not accidentally discover "a clue."
+
+They accidentally found **something the modern world has been searching for without knowing exactly what it looks like**.
+
+Ren's questions become dangerous because he recognizes that the object is not merely old.
+
+It is functional.
+
+Someone who understands the Last Expedition's hidden history can identify what the children possess.
+
+That creates a much stronger causal chain:
+
+**Legendary Destination**
+→ requires extraordinary access conditions
+
+**Last Expedition**
+→ discovers/uses a system of required access components
+
+**Historical collapse**
+→ components are lost, separated, hidden, stolen, or assumed destroyed
+
+**Modern world**
+→ continues pursuing the destination without possessing the complete access system
+
+**Gopal + Ren**
+→ accidentally find one genuine component
+
+**Ren**
+→ realizes what it is
+
+**Someone else**
+→ realizes what Ren has found
+
+**Ren disappears**
+
+The object therefore matters independently of Ren's disappearance.
+
+Even if Ren had never disappeared, possessing that object would still make him important to the world's greatest pursuit.
+
+### Critical constraint
+
+The object must NOT make Ren a chosen one.
+
+It belongs to history.
+
+Ren found it.
+
+That distinction matters.
+
+The object does not activate because Ren is special.
+
+Ren becomes special because **he notices what everyone else overlooked**.
+
+Gopal's importance must come from his own choices and future development, not from ownership of this object.
+
+### Future payoff
+
+When Gopal and Ren eventually reunite, Ren can reveal:
+
+> He did not spend all those years merely trying to escape his captors.
+
+He spent part of his life trying to understand what he had found.
+
+He may have eventually learned that the object is one piece of an actual access system.
+
+That gives Ren independent agency in the central mystery without turning him into an exposition machine.
+
+### Relationship to the Last Expedition
+
+The historical expedition should eventually reveal that its members did not simply follow a map.
+
+They had to acquire, protect, transport, combine, or understand the same kind of access technology.
+
+This creates a much stronger connection between the historical event and the childhood incident.
+
+### Relationship to the final place
+
+The Passage Keys do NOT explain the destination.
+
+They only make reaching it possible.
+
+The destination itself must still be extraordinary enough that possessing the keys does not spoil the mystery.
+
+The reader should eventually understand:
+
+> **The key is not the treasure. The key is what lets you stand before the thing the world has spent centuries trying to reach.**
+
+---
+
+# 20. THE HISTORICAL PEOPLE — FIRST PROVISIONAL GENERATION
+
+The Last Expedition needs human faces.
+
+These are not final names.
+
+They are architectural roles that we will refine.
+
+## 20.1 The Founder-Explorer
+
+The person who first assembles the evidence that the destination can actually be reached.
+
+Not necessarily the strongest explorer.
+
+Not necessarily the person who reaches it.
+
+Their defining quality is **obsessive curiosity**.
+
+They believe the contradictory legends are describing the same thing.
+
+Their discovery triggers the age.
+
+Their mistake may be assuming that reaching the destination will unite people.
+
+---
+
+## 20.2 The Navigator
+
+The greatest navigator of the age.
+
+Their contribution is not merely "being good at maps."
+
+They realize:
+
+> **The route itself behaves differently near the destination.**
+
+They develop a navigation theory that becomes essential to the expedition.
+
+Their descendants may later become one of the world's most respected navigation traditions.
+
+Their notebooks become historical treasures.
+
+---
+
+## 20.3 The Unifier
+
+A political leader who convinces multiple powers to cooperate.
+
+Their dream is enormous:
+
+> Everyone should reach the destination together.
+
+They believe the journey can temporarily make the world one people.
+
+This person becomes a symbol of unity.
+
+But their greatest failure may be discovering that people can stand in the same place and still want completely different futures.
+
+---
+
+## 20.4 The Challenger
+
+An explorer who refuses to join the unified expedition.
+
+They believe no government should own the journey.
+
+They gather independent explorers.
+
+Their conflict with the Unifier becomes legendary.
+
+They eventually become one of the most important people to reach the destination.
+
+Their descendants may become the philosophical ancestors of modern independent adventurers.
+
+---
+
+## 20.5 The Keeper
+
+A scholar who discovers evidence that the destination may contain something dangerous.
+
+They begin the expedition believing knowledge should be shared.
+
+Then they learn something that changes their position.
+
+They become one of the first people arguing:
+
+> **"If we find it, we may not be allowed to bring everything back."**
+
+This creates the ideological seed of the later fracture.
+
+---
+
+## 20.6 The Ordinary One
+
+This person is extremely important.
+
+They are not a legendary captain.
+
+They are an ordinary person who joins the expedition with their family.
+
+Their diary becomes one of the most valuable surviving historical records because it describes:
+- food;
+- weather;
+- friendships;
+- children;
+- arguments;
+- markets;
+- illness;
+- celebrations;
+- fear;
+- boredom;
+- ordinary people.
+
+Their record proves the expedition was not merely a collection of famous heroes.
+
+It was a human migration.
+
+---
+
+## 20.7 The First Betrayer
+
+Not a cartoon villain.
+
+A person who genuinely believes they are saving the expedition.
+
+They make a decision that permanently changes the journey.
+
+Later generations remember them as a traitor.
+
+But their surviving writings suggest they believed the opposite:
+
+> **They betrayed the expedition because they believed the expedition itself had become the danger.**
+
+This person should become extremely important when we eventually reveal the true history.
+
+---
+
+# 21. THE FIRST GREAT INCIDENTS
+
+We now have the beginning of a historical adventure rather than a timeline.
+
+### Incident 1 — The Route Is Proven
+
+The world learns the destination may actually be reachable.
+
+### Incident 2 — The First Great Departure
+
+Multiple powers launch simultaneously.
+
+### Incident 3 — The Crossing of the Three Peoples
+
+Three civilizations that had never previously met encounter each other during the expedition.
+
+This becomes the beginning of a major cultural exchange.
+
+### Incident 4 — The First Settlement
+
+A group decides not to continue.
+
+They build a permanent town.
+
+Centuries later, that town is still inhabited.
+
+### Incident 5 — The Impossible Storm
+
+The expedition encounters a natural/supernatural phenomenon that destroys part of the route.
+
+The Navigator discovers that the phenomenon is not random.
+
+It is connected to the path toward the destination.
+
+### Incident 6 — The First Passage Key
+
+The expedition discovers that ordinary navigation is insufficient.
+
+They obtain one of the components required to continue.
+
+This becomes a turning point in the expedition.
+
+### Incident 7 — The Great Convergence
+
+Multiple expeditions finally meet.
+
+The world witnesses something nobody expected:
+
+> **They are all following different versions of the same route.**
+
+This becomes one of the first major clues that the destination does not obey ordinary geography.
+
+### Incident 8 — The Betrayal
+
+The First Betrayer makes their decision.
+
+The expedition fractures.
+
+### Incident 9 — The Final Approach
+
+Only a smaller group continues.
+
+This is where the true historical mystery begins.
+
+### Incident 10 — The Destination
+
+They reach it.
+
+**We still do not define what they found.**
+
+That is intentional.
+
+---
+
+# 22. THE NEW CAUSAL CHAIN
+
+The event now has a much stronger structure:
+
+**LEGEND**
+↓
+Ancient civilizations remember a destination.
+
+**DISCOVERY**
+↓
+A route becomes reproducible.
+
+**MASS MOVEMENT**
+↓
+The world reorganizes around reaching it.
+
+**CIVILIZATION**
+↓
+The expedition creates settlements, cultures, economies and relationships.
+
+**PASSAGE KEYS**
+↓
+The explorers discover that reaching the destination requires real physical access mechanisms.
+
+**REN'S KEY**
+↓
+Centuries later, a child accidentally finds one of those same mechanisms.
+
+**FRACTURE**
+↓
+The historical expedition breaks after reaching/approaching the destination.
+
+**LOST ACCESS**
+↓
+The world loses the ability to reach the destination reliably.
+
+**MODERN PURSUIT**
+↓
+Everyone still wants the destination, but almost nobody possesses the complete means of reaching it.
+
+**REN DISAPPEARS**
+↓
+Someone realizes the children found something genuine.
+
+**GOPAL'S JOURNEY**
+↓
+Gopal grows without fully understanding the historical significance.
+
+**REN'S JOURNEY**
+↓
+Ren spends years independently understanding what he found.
+
+**REUNION**
+↓
+The two boys who once promised to reach the place together finally possess knowledge neither could have obtained alone.
+
+**FINAL APPROACH**
+↓
+The actual access system is reconstructed.
+
+**LEGENDARY PLACE**
+↓
+They finally reach what everyone has spent generations pursuing.
+
+**TRUTH**
+↓
+The meaning of the Last Expedition, Ren's disappearance, the promise, Gopal's true dream, and the ultimate antagonist's agenda converge.
+
+This is much stronger than:
+
+> clue → another clue → another clue.
+
+Ren found **a real piece of the solution**.
+
+And that piece can remain important for the entire manga.
+
