@@ -569,3 +569,15 @@ We need enough structure that every future discovery feels like it belongs.
 The manga is not a collection of adventures.
 
 **It is Gopal's life unfolding through a world far larger than him.**
+
+
+## Research Phase — Added
+
+Before further chapter development, the project now has a dedicated research phase for studying manga/anime storytelling principles across adventure, characters, living worldbuilding, mystery, powers, villains, emotion, comedy, philosophy and long-form architecture.
+
+Research is explicitly **NON-CANON** until synthesized and approved.
+
+See:
+**RESEARCH/MANGA-ANIME-STORY-DNA-RESEARCH.md**
+
+The legendary ship/place and Gopal's two-layer dream remain **PROVISIONAL** while this research is conducted.
