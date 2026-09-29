@@ -700,3 +700,388 @@ After Pass 1, the following remain **PROVISIONAL but strengthened**:
 ---
 
 **Next research target:** Build the detailed Manga DNA Research Matrix, beginning with the strongest adventure/worldbuilding/mystery/character works and expanding across genres rather than limiting research to the most famous titles.
+
+
+## Deep Research Pass 2 — Character-Driven World, Strategic Conflict & Unpredictability
+
+**Status:** NON-CANON / RESEARCH ONLY
+
+This pass deliberately expands beyond the first set of flagship long-form works. The focus is on techniques that can solve problems already identified in the Gopal design: avoiding chapter-reset storytelling, making companions feel alive, making fights intelligent rather than numerical, and making the world entertaining even when the central mystery is not moving.
+
+### World Trigger — Characters Create the Story, Shared Systems Create Fair Conflict
+
+Daisuke Ashihara explained that he created the characters and world before the actual story, then placed the characters into different roles and adjusted the situation according to what became interesting. He also deliberately built a system in which the same alien technology could be used by anyone, rather than giving special powers exclusively to individual characters. He described characters as existing first and getting caught up in situations as they move through the world. citeturn3view0
+
+**Principles:**
+- Characters can be the engine of events rather than passengers in a prewritten plot.
+- A shared ruleset can make weaker characters relevant because intelligence, positioning and teamwork matter.
+- A power system becomes more interesting when the rules create a strategic playground available to many people.
+- Competition can emerge naturally from the same system without requiring every conflict to be about destiny.
+
+**Gopal application:**
+Our supernatural systems should not automatically announce who the strongest person is. A less powerful character can win because they understand terrain, timing, preparation, information, teamwork or a restriction the opponent ignored.
+
+For Gopal specifically, this supports:
+- fights where his simple-looking ability has unusual applications;
+- companions whose different abilities matter in different environments;
+- villains who win through planning rather than raw strength;
+- battles where retreat, negotiation, sabotage or protecting someone can be the correct objective instead of “defeat the strongest enemy.”
+
+**Do NOT copy:** Border/alien-war structure, Trigger terminology, team-ranking format, or the specific mechanics of World Trigger.
+
+---
+
+### Hell's Paradise — Hidden Character Depth + Unpredictability
+
+Yuji Kaku explained that he created extensive backstories for characters, including material that never appeared because the main story only used what moved the story forward. He also emphasized conflict between opposites and the importance of leaving room for the unknown so that the creator can discover what happens alongside the audience. citeturn0search1
+
+**Principles:**
+- A character can have much more life than the reader immediately sees.
+- Not every piece of backstory needs to be dumped into the manga; unseen history can still guide behavior.
+- Opposing positions become richer when neither side is reduced to a single trait.
+- Controlled unpredictability keeps a long story from feeling mechanically predetermined.
+
+**Gopal application:**
+Every permanent companion should have a private history substantially larger than their introduction scene. We should know:
+- what they want;
+- what they fear;
+- what they regret;
+- who they love;
+- what they believe;
+- what they are hiding;
+- what they would do if Gopal disappeared.
+
+But we should reveal only what becomes dramatically useful.
+
+For long-form planning:
+> **The author should know more about a character than the reader, but not necessarily more than the story needs at that moment.**
+
+This directly supports our “friends are complete people, not role slots” rule.
+
+---
+
+### Attack on Titan — Perspective Reversal Without Cheating
+
+Hajime Isayama described deliberately switching perspective from familiar characters to people initially perceived as enemies, allowing the audience to become familiar with and sympathize with the opposing side before reversing the perspective again. He also explained using hints of real historical truth inside a fictional world so readers can understand the context without every rule being explicitly explained. citeturn2search6
+
+**Principles:**
+- Perspective itself can be a major revelation.
+- An antagonist can become more understandable without becoming morally correct.
+- Worldbuilding feels convincing when fictional institutions echo recognizable human historical patterns.
+- A story can make readers reconsider earlier assumptions without invalidating what they already saw.
+
+**Gopal application:**
+We should occasionally follow:
+- a World Patrol officer;
+- a rival adventurer;
+- a villain's subordinate;
+- an ordinary citizen;
+- a government official;
+- a person from another species.
+
+The purpose is not to create a permanent second protagonist. It is to demonstrate that Gopal's view is only one window into the world.
+
+This is especially important for the ultimate antagonist: readers should eventually understand the logic that allows people to follow them, even while the story challenges that worldview.
+
+**Fairness rule:**
+A perspective reversal must reveal information that was genuinely present, not rewrite reality after the fact.
+
+---
+
+### Witch Hat Atelier — Worldbuilding Must Survive the “Four Steps Ahead” Test
+
+Kamome Shirahama explained that she oversees the world setting in adaptation and emphasized the importance of details such as materials, objects and physical textures. She also warned that once an audience can predict too much of the world's internal logic, the work loses some of its originality; deeper setting work keeps the world from becoming mechanically predictable. citeturn0search3
+
+**Principle:**
+A world becomes memorable when its physical details and internal logic contain more depth than the immediate plot requires.
+
+**Gopal application:**
+For every major culture, we should design:
+- materials and craftsmanship;
+- architecture;
+- transport;
+- clothing logic;
+- food;
+- tools;
+- writing;
+- education;
+- local technology;
+- occupations;
+- environmental adaptations;
+- children’s behavior;
+- ceremonies;
+- taboos.
+
+But we should not explain all of this.
+
+Readers should often encounter details before they know why those details matter.
+
+This supports our existing “ordinary thing → strange fact → contradiction → evidence → revelation” foreshadowing model.
+
+---
+
+### Golden Kamuy — Abnormal + Everyday + Cultural Specificity
+
+Golden Kamuy-related interviews repeatedly highlight the series’ unusual combination of intense action, comedy, daily life, animals, historical setting and detailed Ainu cultural research. The animal designer specifically praised the way abnormal material is mixed with normal everyday life, while the prop team described the need to study cultural details carefully rather than treating them as decorative background. citeturn1search2turn1search5turn1search6
+
+**Principles:**
+- Tonal variety is not automatically tonal inconsistency.
+- The same cast can participate in danger, absurd comedy, food, culture and serious historical material.
+- Specific everyday details make an extraordinary setting feel inhabited.
+- Cultural research should affect behavior and material life, not only visual costumes.
+
+**Gopal application:**
+A Gopal region should not be:
+> “the mystery island.”
+
+It should be:
+> a place where people have jobs, weddings, arguments, sports, markets, foods, local celebrities, criminals, schools, festivals, beliefs, animals, weather patterns and political problems — and where one part of that living place happens to connect to a larger story.
+
+This directly solves the earlier problem where every chapter became “new person + new mystery.”
+
+---
+
+### Dorohedoro — Antagonists Can Become Part of the Audience’s Emotional Home
+
+Critical discussion of Dorohedoro highlights its parallel attention to the protagonists and antagonists, giving the latter enough ordinary interaction, humor and family-like chemistry that readers become attached to them rather than seeing them only as obstacles. citeturn1search11
+
+**Principles:**
+- Screen time creates familiarity.
+- Familiarity can produce affection even toward people who remain adversarial.
+- Villain groups can have friendships, jokes, meals and petty arguments.
+- Perspective can make conflict emotionally complicated without declaring everyone equally right.
+
+**Gopal application:**
+The ultimate villain's organization should not be a silent wall of interchangeable soldiers.
+
+Some antagonists should:
+- have friends;
+- tease each other;
+- disagree with orders;
+- celebrate victories;
+- worry about family;
+- have ordinary hobbies;
+- hate another villain;
+- genuinely admire Gopal;
+- eventually betray their own side;
+- remain loyal for reasons that make sense.
+
+This gives the final conflict emotional texture long before Gopal meets the central antagonist.
+
+---
+
+### Mob Psycho 100 — Theme Must Survive the Spectacle
+
+The Mob Psycho 100 staff described the work as fundamentally a story about youth and changing hearts rather than merely a story about psychic abilities. Its visual language also uses character design and staging to communicate personality and setting beyond dialogue. citeturn1search1turn1search10
+
+**Principle:**
+A spectacular ability is not the story. The human question underneath it is.
+
+**Gopal application:**
+Every major power should eventually answer a character question:
+- What does this person fear?
+- What do they refuse to lose?
+- What does power tempt them to become?
+- What happens when their ability is useful for the wrong thing?
+
+Gopal's hidden power should therefore not be designed as “the coolest attack.” Its eventual revelation should change what readers understand about:
+- Gopal himself;
+- the history of the world;
+- the nature of power;
+- and possibly the meaning of the legendary destination.
+
+The spectacle is the surface. The recontextualization is the payoff.
+
+---
+
+### Delicious in Dungeon — A Non-Mystery Engine Can Sustain an Entire Adventure
+
+Delicious in Dungeon demonstrates how a concrete survival need—in this case food—can become a recurring engine for exploration, character interaction, comedy and worldbuilding. The official Netflix material emphasizes the combination of dungeon adventure, cooking and elaborate worldbuilding. Its creator's influences also span classic fantasy literature and games. citeturn2search0turn2search2
+
+**Principle:**
+A story does not need a mystery question to justify every scene.
+
+A simple recurring human need can generate:
+- movement;
+- decisions;
+- comedy;
+- cultural discovery;
+- character bonding;
+- danger;
+- new knowledge.
+
+**Gopal application:**
+Our journey needs recurring life systems that naturally produce scenes:
+- food and local cuisine;
+- money and trade;
+- transportation;
+- repairs;
+- sleeping arrangements;
+- weather;
+- celebrations;
+- competition;
+- work;
+- illness;
+- paperwork;
+- local laws;
+- reputation;
+- entertainment.
+
+These are not filler if they reveal character or change relationships.
+
+---
+
+## Pass 2 Cross-Research Findings
+
+### Finding H — Characters should generate situations
+
+The useful synthesis from World Trigger + Urasawa + Kaku is:
+
+> **Do not ask only “What happens next?” Ask “What would these people do if this happened?”**
+
+This is a major safeguard against formulaic chapter construction.
+
+The same location can produce completely different stories depending on:
+- who is present;
+- what they want;
+- what they misunderstand;
+- what they fear;
+- what information they have;
+- what they refuse to do.
+
+Therefore, Gopal's arcs should be built from **character pressure inside a living environment**, not from a checklist of plot events.
+
+### Finding I — The world needs recurring engines besides the main mystery
+
+We should intentionally build several “story engines” that can generate chapters without advancing the central mystery every time:
+
+1. **Travel engine** — weather, transport, geography, route choices.
+2. **Economy engine** — money, work, trade, scarcity, jobs.
+3. **Culture engine** — festivals, sports, food, traditions, social rules.
+4. **Law engine** — permits, local guards, World Patrol, bounties, jurisdiction.
+5. **Relationship engine** — friendships, rivalries, misunderstandings, trust.
+6. **Competition engine** — races, tournaments, crafts, games, professions.
+7. **Danger engine** — wildlife, natural disasters, criminals, villains.
+8. **Mystery engine** — local questions and the long legendary history.
+9. **Consequence engine** — things Gopal did earlier continuing to affect later life.
+
+This is how the manga can be adventurous without becoming “mystery clue every chapter.”
+
+### Finding J — A major companion needs narrative residence
+
+A major companion should not be introduced, resolved and replaced.
+
+Once a meaningful companion enters Gopal's life:
+- they should remain in the current story for a substantial period;
+- their own problems should continue;
+- their relationship with Gopal should change;
+- they should affect decisions;
+- they should have scenes where Gopal is not present;
+- their own goal should create conflict or opportunity;
+- their introduction should become the beginning of a relationship, not the completion of a character function.
+
+**New rule:**
+> **A companion's introduction is not their arc. It is the beginning of their life inside the manga.**
+
+### Finding K — The strongest power-system lesson is “possibility,” not “hierarchy”
+
+World Trigger and Mob Psycho together reinforce two complementary lessons:
+- a ruleset should create many possible decisions;
+- spectacle should serve character/theme.
+
+For Gopal:
+> **Power should expand the number of interesting choices, not merely raise the number above the previous villain.**
+
+### Finding L — Perspective should occasionally move sideways
+
+The story should sometimes leave Gopal's viewpoint long enough for readers to see:
+- what another faction is doing;
+- how the world interprets Gopal;
+- what an antagonist is afraid of;
+- how ordinary people experience a major event;
+- how a distant region reacts to something Gopal did hundreds of chapters earlier.
+
+But these perspective shifts must remain purposeful. We should not create permanent “B-plots” simply to appear complex.
+
+### Finding M — Cultural specificity is a story mechanic
+
+Research should not produce “fantasy wallpaper.”
+
+If a culture has a festival, it should affect:
+- schedules;
+- food prices;
+- travel;
+- relationships;
+- work;
+- laws;
+- tourism;
+- crime;
+- local pride;
+- childhood memories;
+- political arguments.
+
+That makes worldbuilding generate story.
+
+### Finding N — Antagonist attachment is useful before the final villain
+
+We should not wait until the final saga to make the enemy organization human.
+
+Readers should already understand:
+- some members are monsters;
+- some are ordinary people;
+- some joined for money;
+- some joined because they believe;
+- some joined because they were born into it;
+- some joined because the organization protected them;
+- some will leave;
+- some will become Gopal's temporary allies;
+- some will remain enemies until the end.
+
+This will make the final conflict about people and choices, not only armies.
+
+---
+
+## New Gopal Design Constraints — NON-CANON
+
+Pass 2 adds these constraints to future synthesis:
+
+1. **No automatic chapter reset.** A character/location/problem can remain for many chapters.
+2. **Character pressure creates plot.** We should begin sequences from what existing characters want and what the environment allows.
+3. **Every major location needs at least three non-mystery life systems** that can generate story.
+4. **Major companions require residence.** Their introduction begins a relationship arc rather than ending it.
+5. **Every major power needs decision space.** Avoid pure “bigger blast” progression.
+6. **At least occasional sideways perspectives** should show a world larger than Gopal.
+7. **Antagonist factions need ordinary life.** Villains can joke, eat, argue and care about things.
+8. **Culture must affect mechanics.** Festivals, jobs, laws, food and beliefs should change what characters can actually do.
+9. **Mystery is one engine among several.**
+10. **The opening should demonstrate these principles immediately:** something already happening, Gopal entering an existing situation, a living location, a meaningful conflict, and at least one reason to stay that does not require immediately introducing the next companion.
+
+## Pass 2 Research Sources
+
+- Daisuke Ashihara / World Trigger interview, VIZ. citeturn3view0
+- Yuji Kaku / Hell's Paradise interview, Crunchyroll News. citeturn0search1
+- Hajime Isayama / Attack on Titan interview, Crunchyroll News. citeturn2search6
+- Kamome Shirahama / Witch Hat Atelier interview, Crunchyroll News. citeturn0search3
+- Golden Kamuy creator/staff interviews and production discussions, Crunchyroll News. citeturn1search2turn1search5turn1search6
+- Dorohedoro critical discussion, Crunchyroll News. citeturn1search11
+- Mob Psycho 100 interview/features, Crunchyroll News. citeturn1search1turn1search10
+- Delicious in Dungeon official Netflix/Tudum material. citeturn2search0turn2search2
+
+## Next Research Target
+
+**Pass 3 — Cross-Comparison and Gap Hunting**
+
+Next we should stop simply collecting “good things” and compare them against each other.
+
+Questions:
+- Which techniques solve the same problem in different ways?
+- Which techniques conflict?
+- Which successful genre habits should Gopal deliberately avoid?
+- What does almost every famous long-running adventure manga do that could become predictable?
+- What storytelling space is unusually underused?
+- What combination of principles could create a genuinely distinctive Gopal identity?
+- What should the legendary place/event do that existing “ultimate destination” stories usually do not?
+- What should Gopal's hidden dream do that readers have not been trained to expect from this genre?
+- What should the opening accomplish in its first 10, 30 and 100 chapters?
+
+**Important:** Nothing in this Pass 2 section is canon yet.
