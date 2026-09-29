@@ -7,6 +7,40 @@
 
 ---
 
+## 2026-09-29 — LEGENDARY EVENT SCALE UPDATE
+
+### What changed
+
+The earlier **Horizonfall** concept is no longer the active legendary-event direction. It is preserved as abandoned/provisional research rather than silently deleted.
+
+The active direction is now **The Last Expedition — PROVISIONAL**.
+
+The key improvement is scale: this is not merely a famous expedition. It became a civilization-scale age in which governments, explorers, scholars, merchants, religions, criminals, families, and ordinary people reorganized parts of their lives around reaching the legendary destination.
+
+The expedition creates settlements, economies, languages, laws, traditions, political conflicts, family histories, and modern adventure culture. Its consequences survive into Gopal's era.
+
+The expedition eventually converges on the destination, fractures after a major still-undefined turning point, and produces contradictory survivor accounts. At least some contradictions should eventually prove simultaneously true because of the actual nature of the legendary place.
+
+The exact destination, route, leaders, turning point, survivor truth, and final meaning of the event remain OPEN.
+
+### Why we changed it
+
+The previous event was too focused on a supernatural phenomenon. The new foundation makes the legend human, historical, cultural, political, economic, emotional, and mysterious at the same time.
+
+This follows the project principle that history should create present-day pressure and visible consequences rather than sit as decorative backstory. citeturn0search0turn0search10
+
+### New persistent document
+
+`WORLD/THE-LAST-EXPEDITION-HISTORICAL-ARCHITECTURE.md`
+
+Commit: `44de6aeadcbcb62bb3189ca7eb2c4ead76984bff`
+
+### Next dependency
+
+Before designing the legendary place, we will build the historical people, factions, major incidents, turning point, fracture, survivors, and cultural aftermath of The Last Expedition.
+
+---
+
 ## 2026-09-29 — FOUNDATION UPDATE
 
 ### What we changed
@@ -244,7 +278,7 @@ We need to design:
 ## CURRENT
 ### 1. Childhood Incident
 Then:
-### 2. Legendary Event
+### 2. Legendary Event — historical architecture now started
 Then:
 ### 3. Legendary Place
 Then:
