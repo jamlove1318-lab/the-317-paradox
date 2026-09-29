@@ -7,6 +7,57 @@
 
 ---
 
+## 2026-09-29 — REN DISCOVERY REVISION
+
+### What changed
+
+The childhood discovery has been upgraded from "a clue connected to the legendary place" to a **real, required component of the route to the legendary place**.
+
+Working category name: **PASSAGE KEYS — PROVISIONAL**.
+
+Ren found one genuine Passage Key as a child. It is not merely evidence that points toward another clue. It is one of the physical/mechanical requirements needed to reach the destination everyone wants.
+
+The exact mechanism, number of keys, names, origin, and relationship to the destination remain open until the destination is designed.
+
+### Why this is better
+
+It makes Ren's disappearance causally stronger. Whoever understands the old expedition knows that the children did not find an interesting relic; they found something the modern world desperately needs.
+
+It also prevents the mystery from becoming a repetitive clue chain.
+
+The key has intrinsic importance throughout the story even before its full function is understood.
+
+Ren is not chosen by the key. He becomes important because he recognizes what other people overlook.
+
+### Historical consequence
+
+The Last Expedition itself must eventually involve the same access system. The explorers did not simply follow a map; they had to acquire, protect, transport, or understand the physical requirements that make the final approach possible.
+
+This creates a direct chain:
+
+**Last Expedition → lost access system → Ren finds one required component → Ren disappears → Ren independently studies it → Gopal and Ren eventually reunite → access system is reconstructed → legendary destination becomes reachable.**
+
+### New historical design direction
+
+The Last Expedition now gets named historical figures and major incidents rather than existing only as a timeline.
+
+First provisional roles:
+- Founder-Explorer
+- Navigator
+- Unifier
+- Challenger
+- Keeper
+- Ordinary Traveler
+- First Betrayer
+
+These are architectural roles, not final character names.
+
+### Next dependency
+
+Design the historical characters and the expedition's major incidents in sequence, then use those events to determine the exact Passage Key system and eventually the legendary place.
+
+---
+
 ## 2026-09-29 — LEGENDARY EVENT SCALE UPDATE
 
 ### What changed
@@ -276,9 +327,10 @@ We need to design:
 - Legendary-place structural requirements.
 
 ## CURRENT
-### 1. Childhood Incident
+### 1. Legendary Event — historical people + incidents
 Then:
-### 2. Legendary Event — historical architecture now started
+### 2. Passage Key system + childhood incident integration
+Then:
 Then:
 ### 3. Legendary Place
 Then:
