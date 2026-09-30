@@ -496,3 +496,84 @@ The stronger architectural rule is:
 
 > The destination should be the inevitable result of the expedition's history, not a cool location invented first and retrofitted afterward.
 
+
+
+---
+
+## 2026-09-30 — LAST EXPEDITION ARRIVAL / FIRST TRUTH
+
+### What changed
+
+The Last Expedition's destination encounter is now structurally designed without yet naming or fully defining the final legendary place.
+
+The working truth is that the destination is geographically real but cannot be represented by ordinary maps. It contains routes and landscapes whose relationships do not obey normal distance, and people have lived there across different historical periods.
+
+### Major discoveries
+
+- The destination is not merely an island, city, treasure room, portal, or dead ruin.
+- An ancient road exists there containing evidence from civilizations believed to have been separated by centuries and geography.
+- A living population descends from multiple earlier groups that reached the region.
+- The expedition discovers that different historical accounts can all be partially true because the access system produces different valid routes/experiences.
+- The ancient access system was built over generations by multiple peoples rather than one creator.
+- Passage Keys establish the relationship between traveler, destination, route, environment and timing.
+- Passage Keys do not point toward the destination and do not choose a hero.
+- The Nine Conditions are human capabilities rather than magical classes.
+
+### Seren's discovery
+
+The access system has two broad functions:
+1. permit entry to the destination;
+2. establish routes back outward.
+
+Seren realizes incorrect activation could create dangerous connections between otherwise separated regions and environmental systems.
+
+She therefore changes the final access sequence in an attempt to force the system into a safer incomplete state.
+
+Her action causes the nine branches to separate and the expedition to collapse.
+
+This remains morally unresolved. The story must not eventually reduce Seren to either secretly evil or secretly correct.
+
+### The Last Return revision
+
+The nine ships return simultaneously because the access system was never properly closed.
+
+Years later, conditions recreate what is necessary for the system to attempt to resolve the interrupted journey.
+
+The system preserves/returns the routes and ships, but not necessarily the people.
+
+Noa returns alive with a Passage Key and an ordinary object belonging to someone who died.
+
+This reinforces that the expedition was made of human lives, not only legendary explorers.
+
+### Meaning of "We weren't the first"
+
+Noa's statement means multiple peoples reached the destination across history.
+
+Some stayed.
+Some returned.
+Some disappeared.
+Some founded communities.
+Some hid the route.
+
+The Last Expedition was the largest recorded attempt, not the first.
+
+### Ren integration
+
+Ren's childhood discovery can now be one of the actual missing Passage Keys.
+
+This is stronger than a clue chain because Ren's discovery is physically part of the access system.
+
+The children do not need to understand its significance. An adult/organization later can.
+
+### New open question
+
+The central unresolved question is now:
+
+> Why does the impossible road/access system exist at all?
+
+That answer must determine the final destination's deeper identity, the Passage Key system, the supernatural world's deeper structure, the ultimate antagonist's ideology, and eventually Gopal's true dream.
+
+### New dependency
+
+Next design the origin/purpose of the impossible road system before naming the legendary destination.
+
