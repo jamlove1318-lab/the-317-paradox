@@ -378,3 +378,121 @@ It is about a world already in motion, a boy who enters that world, the people h
 The destination is important.
 
 The people are the reason the destination matters.
+
+
+---
+
+## 2026-09-30 — LAST EXPEDITION HISTORICAL CAST EXPANSION
+
+### What changed
+
+The Last Expedition has been expanded from a list of historical roles into a provisional human cast with interconnected relationships, private dreams, flaws, choices, and consequences.
+
+New working names:
+- Cael Arden — Founder
+- Lyra Sen — Navigator
+- Mara Vel — Unifier
+- Orren Kai — Challenger
+- Elias Venn — Keeper
+- Seren Voss — First Betrayer
+- Noa Rei — Last Witness / Survivor
+- Harrow family — ordinary expedition family
+
+### Core improvement
+
+The historical tragedy is no longer designed around a simple good-versus-evil betrayal.
+
+The central conflict is now:
+
+> People who wanted different kinds of good discovered something that could not safely satisfy all of them.
+
+Each major historical figure understands one part of the larger problem:
+- Cael — possibility
+- Lyra — movement/navigation
+- Mara — cooperation
+- Orren — ownership/independence
+- Elias — memory
+- Seren — danger/containment
+- Noa — human cost
+
+No character is intended to possess the entire truth.
+
+### Important new relationship structure
+
+- Cael ↔ Lyra = possibility vs measurement
+- Cael ↔ Mara = personal dream vs civilization
+- Mara ↔ Orren = institution vs independence
+- Cael ↔ Orren = inspiration vs accountability
+- Lyra ↔ Seren = navigation vs engineering
+- Elias ↔ Seren = memory vs secrecy
+- Mara ↔ Seren = transparency vs containment
+- Elias ↔ Noa = historical record vs lived memory
+
+These relationships are designed to make Incident 14 a consequence of accumulated relationships rather than a sudden plot twist.
+
+### First Betrayer revision
+
+Seren is not secretly evil and is not secretly "good all along."
+
+She changes the final access sequence because she believes the complete system could cause a larger disaster if used under the wrong conditions.
+
+Her choice saves something but directly causes deaths, separation, and the collapse of the expedition.
+
+The story should preserve the moral uncertainty rather than eventually reducing her to a clean label.
+
+### Keeper revision
+
+Elias initially believes every truth should be preserved and eventually made public.
+
+After seeing something at the destination, he becomes convinced that some truths can be dangerous when released without preparation.
+
+He deliberately hides part of the historical record.
+
+This makes the contradictory history an intentional human consequence, not merely convenient missing information.
+
+### Survivor revision
+
+Noa is not the strongest or most important explorer.
+
+Noa is an ordinary medical assistant who survives because of circumstance and later becomes historically important by carrying a Passage Key and partial truth.
+
+The Last Return therefore remains a human event rather than a chosen-one prophecy.
+
+### Ordinary-life revision
+
+The Harrow family is included to make the expedition visibly human.
+
+Births, marriages, illness, food, work, schooling, debt, arguments, festivals and ordinary dreams continue while the legendary journey is happening.
+
+Their descendants can exist in Gopal's era without knowing their family's historical importance.
+
+### Why this changed
+
+The Last Expedition needs to feel like the history of a generation of people, not a mythology encyclopedia.
+
+The destination must eventually emerge from the choices, fears, relationships and discoveries of these people.
+
+### New dependency
+
+Do NOT design the final destination yet.
+
+Next:
+1. determine exactly what the expedition encountered;
+2. determine what Seren saw;
+3. determine what Cael wanted revealed;
+4. determine what Elias hid;
+5. determine what Noa witnessed;
+6. determine why the nine ships returned simultaneously;
+7. determine why the Passage Key survived;
+8. determine what "we weren't the first" means;
+9. derive the exact Passage Key system;
+10. only then define the legendary destination.
+
+### Status
+
+All names and detailed character specifics remain **PROVISIONAL**.
+
+The stronger architectural rule is:
+
+> The destination should be the inevitable result of the expedition's history, not a cool location invented first and retrofitted afterward.
+
