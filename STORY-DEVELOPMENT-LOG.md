@@ -1049,3 +1049,92 @@ Then build:
 All power terminology and mechanics are **PROVISIONAL**. Core direction is active:
 
 > Different sources of power answer different questions, combat rewards creativity, and character development matters more than numerical escalation.
+
+
+---
+
+## 2026-10-02 — MAJOR POWER SYSTEM REVISION: WORLD SEEDS / ASPECTS / TITHES
+
+### Why the previous model changed
+
+The earlier **Relic Arts** concept did not sufficiently capture the desired role of a power-granting phenomenon comparable in narrative function to the idea that an ordinary person can acquire an extraordinary ability.
+
+It has therefore been retired as the primary system name/model.
+
+### New provisional model
+
+**WORLD SEEDS** — rare supernatural growths that can bond with an ordinary person and plant an unusual rule/relationship inside them.
+
+The resulting ability is an **ASPECT**.
+
+Every Seed is defined by four components:
+
+- **Aspect** — what principle is altered;
+- **Gift** — what extraordinary capability results;
+- **Tithe** — what ordinary ability/relationship the user permanently loses or sacrifices;
+- **Limit** — the conditions that restrict the power.
+
+### Major design principle
+
+Power is never free.
+
+The Tithe is deliberately broader than a combat weakness. It can affect senses, relationships, lifestyle, identity, occupation, communication, health or ordinary pleasures.
+
+This should make power users feel like people living with permanent consequences rather than game characters receiving upgrades.
+
+### Counter philosophy
+
+There is no universal anti-Seed substance or simple elemental chart.
+
+Counters can arise through:
+- opposing conditions;
+- incompatible materials;
+- environmental denial;
+- physical limitations;
+- knowledge of the ability;
+- exploiting the Tithe;
+- later, advanced Spiritual Power.
+
+The situation determines the counter.
+
+### Progression philosophy
+
+World Seed mastery should develop through deeper understanding and creative application, not numerical multipliers.
+
+A future **Awakening** is therefore conceptual expansion rather than a simple power boost.
+
+### Relationship to Spiritual Power
+
+World Seed:
+> The world gives you a new rule.
+
+Spiritual Power:
+> You develop your own force.
+
+They can overlap, but neither replaces the other.
+
+### Passage Keys
+
+Passage Keys remain distinct from World Seeds. They belong to the access system for the legendary destination and are not simply the strongest version of a Seed.
+
+### Gopal and Ren
+
+Gopal's future Seed/ability remains intentionally undisclosed.
+
+Ren's future ability must support his strategic identity and independent character arc.
+
+Neither character will be made important merely because an ability declares them chosen.
+
+### Status
+
+**WORLD SEEDS / ASPECTS / TITHES are PROVISIONAL working terminology.**
+
+The permanent direction is active:
+
+> Ordinary people can acquire extraordinary powers; every power has a meaningful price and meaningful counters; mastery comes from creativity and character rather than numerical escalation.
+
+### Next dependency
+
+Continue with:
+
+**CURRENT ERA → GOPAL'S HOME → FIRST SAGA.**
