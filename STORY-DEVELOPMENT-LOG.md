@@ -9,103 +9,21 @@
 
 ## 2026-10-02 — CURRENT ERA FOUNDATION
 
-### What changed
-
 Created:
 WORLD/CURRENT-ERA-THE-WORLD-BEFORE-GOPAL.md
 
 Commit:
 3e3187c4807223546c2cd798851cbdefed60e93f
 
-The world immediately before Gopal's story is now designed as a living historical moment rather than a frozen backdrop.
+The world immediately before Gopal's story is now a living historical moment.
 
-### Core principle
+Core principle:
 
 > **The world was already moving. Then Gopal entered it.**
 
-The current era contains:
-- famous explorers;
-- World Patrol figures;
-- bounty hunters;
-- criminals;
-- scientists and inventors;
-- athletes and musicians;
-- active political conflicts;
-- industrial expansion;
-- disasters and their consequences;
-- exploration races;
-- Passage Key black markets;
-- changing laws and institutions;
-- ordinary life.
+The era contains famous explorers, World Patrol figures, bounty hunters, criminals, scientists, inventors, athletes, musicians, active conflicts, industrial expansion, disasters, exploration races, Passage Key black markets and ordinary life.
 
-These events do not all secretly connect to Gopal or the legendary destination.
-
-### Current tensions
-
-Initial provisional conflicts include:
-- Varesh border tensions;
-- Talassi water disputes;
-- Wildermarch land rush;
-- Noctis water-rights politics;
-- industrial expansion;
-- changing World Patrol influence.
-
-### Current-world events
-
-Initial provisional events include:
-- Glasswind Storm;
-- Calder Dock Fire;
-- Broken Road Floods;
-- famous expeditions;
-- Passage Key thefts;
-- scientific discoveries;
-- sports and cultural events.
-
-The important design rule is that consequences continue after the original event.
-
-### Famous people
-
-The era now has provisional figures across multiple fields rather than only fighters:
-- World Patrol officers;
-- explorers;
-- bounty hunters;
-- criminals;
-- scientists;
-- inventors;
-- athletes;
-- musicians.
-
-Being famous does not automatically mean becoming a future main character.
-
-### Ren
-
-Ren's life continues independently during this period.
-
-He is not frozen in captivity or waiting for Gopal's plot.
-
-He is surviving, learning, meeting people, building trust, making mistakes and eventually creating an independent group.
-
-### Gopal
-
-Gopal begins as one person inside this larger world.
-
-Famous institutions do not automatically know him.
-
-His importance must be earned through choices, relationships and consequences.
-
-### Why this changed
-
-The manga needs to feel like an adventure through a real historical era rather than a stage that activates only when Gopal arrives.
-
-### Next dependency
-
-Move inward:
-
-1. Gopal's home region.
-2. Gopal's family and ordinary childhood.
-3. The childhood incident.
-4. Passage Key integration.
-5. First Saga architecture.
+These events do not all secretly connect to Gopal.
 
 ---
 
@@ -113,82 +31,172 @@ Move inward:
 
 ### What changed
 
-A new permanent design rule was added to the World Seeds / Aspects system:
+A new hard rule was added:
 
 > **No two people may possess the same World Seed Aspect.**
 
 Once an Aspect is assigned to a character, that exact supernatural rule is retired from future character creation.
 
-### Important distinction
+Different powers may interact with similar physical phenomena while remaining fundamentally different.
 
-Different powers may interact with the same physical phenomenon while remaining fundamentally different.
-
-For example:
-- Friction;
-- Momentum;
-- Adhesion;
-- Surface Texture
-
-can all affect movement without being the same power.
-
-### Power Registry
-
-Future character design will maintain a registry containing:
+A Power Registry will track:
 
 **Aspect → Gift → Tithe → Limits → Counters → Applications → User history**
 
-This registry exists specifically to prevent accidental duplicate powers across hundreds of characters.
-
-### Broader combat rule
-
-Not every major fighter needs a World Seed.
-
-Extraordinary characters can become dangerous through:
-- training;
-- weapons;
-- technology;
-- tactics;
-- medicine;
-- physical ability;
-- environmental mastery;
-- Spiritual Power.
-
-### Why this changed
-
-The user specifically requested that two people should not have the same power.
-
-This strengthens character identity and prevents the power system from becoming repetitive.
+Not every major fighter needs a World Seed. Training, weapons, technology, tactics, physical ability and Spiritual Power remain valid paths to extraordinary strength.
 
 ### Status
 
 **HARD ACTIVE RULE.**
 
-The exact World Seed terminology remains PROVISIONAL, but the uniqueness rule is now part of the core combat design.
+World Seed terminology remains PROVISIONAL, but uniqueness is permanent.
 
 ---
 
-## CURRENT NEXT STEP
+## 2026-10-02 — GOPAL HOME REGION & CHILDHOOD FOUNDATION
 
-### GOPAL'S HOME REGION
+### What changed
 
-We now need to design the place where Gopal grew up.
+Created:
 
-It must establish:
-- his ordinary life;
-- family;
-- local culture;
-- childhood friends;
-- what Gopal loves;
-- what annoys him;
-- what he is bad at;
-- what makes him unusually compassionate;
-- his relationship with Ren;
-- the physical location of their childhood discovery;
-- why children could plausibly encounter a Passage Key;
-- the local adults who fail to understand its importance;
-- the first glimpse of the wider world.
+CHARACTERS/GOPAL-HOME-REGION-AND-CHILDHOOD-FOUNDATION.md
 
-The home region should be worth remembering even after Gopal leaves.
+Commit:
+f8877293ae8f6b049f5ce0eec8ed6e32bb7f34c4
+
+### Home region
+
+Working name:
+
+**Lantern Bay — PROVISIONAL**
+
+A mixed-species coastal settlement built around a sheltered bay.
+
+Its economy includes:
+- fishing;
+- boat repair;
+- small shipbuilding;
+- rope and sail production;
+- orchards;
+- preserved food;
+- lantern making;
+- coastal navigation.
+
+It is intentionally not one of the world's great capitals.
+
+### Gopal's family
+
+Working names:
+- Arun — father, boat-repair worker.
+- Mira — mother, market cook.
+
+They are ordinary people with their own lives, frustrations, humor and affection.
+
+Gopal grows up in a real household rather than a legendary bloodline.
+
+### Gopal's childhood personality
+
+Young Gopal is:
+- curious;
+- impulsive;
+- playful;
+- compassionate;
+- stubborn;
+- restless;
+- willing to question impossible claims;
+- poor at patience and long-term consequences.
+
+He is not a miniature legendary hero and does not begin with a desire to become the strongest.
+
+His childhood instinct is:
+
+> **If something seems impossible, go see it yourself.**
+
+### Lantern Festival
+
+Working name:
+**Night of a Thousand Lights — PROVISIONAL**
+
+This becomes a recurring emotional symbol of home.
+
+### Ren's childhood relationship
+
+Gopal and Ren are close but not dependent.
+
+Gopal represents possibility.
+
+Ren represents questions.
+
+They have other relationships and lives beyond one another.
+
+### Old Ridge
+
+A dangerous abandoned terrace system above Lantern Bay provides a believable childhood exploration location.
+
+A combination of low tide, damaged structures and curiosity eventually exposes a sealed chamber.
+
+### Passage Key integration
+
+Gopal and Ren discover a genuine Passage Key.
+
+It does not glow, choose Ren, grant a power or activate dramatically.
+
+Ren recognizes that its markings match old navigation structures and realizes that someone deliberately built it.
+
+The object is one of the actual requirements for reaching the legendary destination.
+
+### Why Ren becomes the target
+
+An information chain eventually reaches people who understand the Key's importance.
+
+Ren is more valuable than the object alone because he remembers:
+- where it was found;
+- the chamber layout;
+- the markings;
+- the route;
+- details Gopal missed;
+- notes he kept.
+
+Gopal is underestimated and survives.
+
+Ren is taken.
+
+### Childhood emotional foundation
+
+Before the incident, Gopal has a genuine ordinary life.
+
+The tragedy does not define his entire personality.
+
+It creates a wound inside an already-existing life.
+
+This supports the later principle:
+
+> **He loved a life, lost someone from that life, kept living, and eventually grew beyond the boundaries of the place that raised him.**
+
+### Next dependency
+
+Design the childhood incident as a connected sequence:
+
+1. ordinary day;
+2. Gopal/Ren argument;
+3. local problem;
+4. decision to go somewhere;
+5. discovery;
+6. excitement;
+7. return;
+8. adult reaction;
+9. information leak;
+10. threat approaches;
+11. abduction;
+12. Gopal's failed intervention;
+13. search;
+14. aftermath;
+15. promise remembered;
+16. transition into their separate lives.
+
+Then:
+
+**FIRST SAGA ARCHITECTURE.**
 
 ---
 
