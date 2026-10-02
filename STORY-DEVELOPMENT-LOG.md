@@ -577,3 +577,105 @@ That answer must determine the final destination's deeper identity, the Passage 
 
 Next design the origin/purpose of the impossible road system before naming the legendary destination.
 
+
+
+---
+## 2026-10-02 — ADVENTURE-FIRST WORLD REVISION
+
+### What changed
+The manga is **NOT a mystery-focused story about a legendary island**.
+
+The legendary destination is the distant ultimate goal of a much larger adventure world. It gives the journey direction, but it does not dominate every arc, location, character or conflict.
+
+New core principle:
+
+> **The destination gives the journey direction. The world gives the journey meaning.**
+
+A story can spend dozens of chapters on an adventure that has little or nothing directly to do with the legendary destination.
+
+### What this replaces
+The earlier design emphasis that treated the legendary destination/access system as the primary organizing mystery is reduced.
+
+The destination remains important, but it is no longer the organizing principle for the whole manga.
+
+The previously designed **living population on the destination** concept is explicitly **DISCARDED**. The destination should remain extraordinary and difficult to reach; it should not become an ordinary inhabited continent that removes the excitement of the journey.
+
+The earlier concepts of permanent Far Settlers, a normal civilization living on the destination, and the destination as a central explanation for every supernatural phenomenon are no longer active.
+
+### Why this changed
+The desired experience prioritizes:
+- adventure;
+- fun;
+- excitement;
+- friendship;
+- comedy;
+- exploration;
+- action;
+- loss;
+- pain;
+- emotional relationships;
+- cultures and civilizations;
+- ordinary life;
+- personal dreams;
+- a world that continues moving without Gopal.
+
+The legendary destination should function as a far horizon rather than as the entire story.
+
+### New persistent document
+`WORLD/ADVENTURE-WORLD-FOUNDATION.md`
+
+Commit: `0a197d9bdf9429a2dae214a0a77ca2d9a5c4f093`
+
+### New world rule
+Not every adventure needs to advance the legendary-destination plot.
+
+A place can matter because of its people, culture, conflict, beauty, danger, comedy, history, food, sport, politics, friendship, loss or because Gopal simply chooses to go there.
+
+Not every mystery needs to be solved immediately, and not every arc needs a mystery at all.
+
+### Adventure rhythm
+The intended story rhythm can move through:
+
+> arrival → wonder → fun → friendship → trouble → adventure → laughter → danger → fight → consequence → discovery → loss/joy → departure → new horizon.
+
+This is not a fixed formula. It is a tonal range.
+
+### World requirements reaffirmed
+The world must contain:
+- multiple landmasses and seas;
+- varied cultures and civilizations;
+- multiple intelligent races/species;
+- ordinary occupations and economies;
+- governments and local law;
+- World Patrol as a morally mixed international force;
+- bounty systems that measure threat/interest rather than simple combat strength;
+- supernatural powers plus independent technology, natural phenomena and human skill;
+- local/regional villains as well as eventual world-scale threats;
+- festivals, sports, food, music, fashion, religion, family life and ordinary problems;
+- recurring characters who do not all join Gopal;
+- 10–12 eventual permanent companions joining gradually;
+- world events that continue while Gopal is elsewhere;
+- beauty and peace as well as danger and tragedy.
+
+### Story test added
+A location should not exist only because it contains a mystery.
+
+Before approving a major location, ask whether it would still be interesting if Gopal never visited it, whether ordinary people live there, what they eat and celebrate, what they fear and argue about, who has power, what the place wants, and what happens after Gopal leaves.
+
+### Next dependency
+Build the living world before finalizing the legendary destination:
+1. geography and major seas/regions;
+2. travel and ships;
+3. major races/species;
+4. civilizations/cultures;
+5. World Patrol and other organizations;
+6. power-system foundation;
+7. occupations/trade/economy;
+8. current-era history and famous people;
+9. Gopal's starting region and home life;
+10. first major companion;
+11. first saga;
+12. exact legendary destination architecture later.
+
+### Status
+**PROVISIONAL**, but this is now the active creative direction.
