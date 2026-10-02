@@ -679,3 +679,87 @@ Build the living world before finalizing the legendary destination:
 
 ### Status
 **PROVISIONAL**, but this is now the active creative direction.
+
+
+---
+
+## 2026-10-02 — MAJOR RACES & PEOPLES FOUNDATION
+
+### What changed
+
+Created:
+WORLD/MAJOR-RACES-AND-PEOPLES.md
+
+Commit:
+6ffda6e4d6b53e851e72c57009739a4eb81a670c
+
+The design moves away from the standard fantasy formula of:
+
+> race = appearance + personality + homeland + job.
+
+Instead:
+
+> biology → environmental possibilities/constraints → migration → history → culture → institutions → internal disagreement.
+
+### Initial major peoples
+
+Eight provisional peoples have been created:
+
+1. Humans — widespread and culturally diverse.
+2. Varkai — vibration-sensitive people whose biology influences architecture and communication.
+3. Talassi — semi-aquatic people with amphibious river, delta and coastal civilizations.
+4. Korrun — dense-boned people shaped by rugged environments and repair/craft traditions.
+5. Saaru — low-light-adapted people with major night economies and cultures.
+6. Eyrin — lightweight, glide-capable people whose civilizations developed around cliffs and high terrain.
+7. Moru — long-lived people with unusual multi-generational family and political structures.
+8. Nem — visually adaptive people whose pigmentation/texture abilities influenced visual language, fashion and identity politics.
+
+### Important rule
+
+Species are not countries.
+
+A civilization can contain many peoples. A people can live across many civilizations. A city can be heavily mixed.
+
+Species identity, nationality, class, language, religion and family are separate axes.
+
+### Internal diversity rule
+
+Every major people must eventually contain:
+- multiple cultures;
+- regional identities;
+- political disagreements;
+- generational conflict;
+- ordinary workers and families;
+- heroes and criminals;
+- people who embrace tradition;
+- people who reject it.
+
+No species is morally or politically monolithic.
+
+### Power-system separation
+
+Biological traits are NOT the supernatural power system.
+
+A Talassi does not control water simply because they are Talassi.
+
+A Varkai's vibration sensitivity is biological, not magical.
+
+The supernatural system remains a separate later design layer.
+
+### Why this changed
+
+The purpose is to make the world feel populated by actual peoples rather than fantasy archetypes.
+
+Research into human evolution and anthropology reinforces the useful principle that environmental pressures can influence bodies, behavior, tools and social organization, while culture can diversify independently across populations. Comparative folklore also provides a broad inspiration pool of nonhuman motifs without requiring us to inherit traditional fantasy roles.
+
+### Next dependency
+
+Do not add dozens more species yet.
+
+Next:
+
+MAJOR CIVILIZATIONS & CULTURAL REGIONS
+
+We now need to design kingdoms, republics, empires, free territories, mixed-species cities, trade powers, frontier regions, isolated cultures, current wars, political tensions, World Patrol relationships, famous festivals, major ports and ordinary towns.
+
+The world should begin feeling like a real planet before we return to the legendary destination.
