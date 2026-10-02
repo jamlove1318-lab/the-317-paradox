@@ -855,3 +855,79 @@ Core direction is active:
 
 > A civilization should be capable of producing ten different stories before Gopal ever arrives.
 
+
+
+---
+
+## 2026-10-02 — ORGANIZATIONS, INSTITUTIONS & FACTIONS FOUNDATION
+
+### What changed
+
+Created:
+WORLD/ORGANIZATIONS-INSTITUTIONS-AND-FACTIONS.md
+
+Commit:
+e1ab0f893e653849b812a9989530749d5be81a23
+
+The world now has a provisional organization layer above geography, peoples and civilizations.
+
+### Initial major organizations/institutions
+
+- **World Patrol** — international enforcement, investigation, maritime security and disaster response network.
+- **Local Law Institutions** — town guards, harbor authorities, sheriffs, courts and councils handling ordinary crime.
+- **Bounty Registry** — administrative system for warrants, bounty notices and threat classifications.
+- **Open Road Society** — explorers, cartographers, guides and independent adventurers.
+- **Horizon Exchange** — international merchant/shipping/finance ecosystem.
+- **Deepwater Guilds** — maritime workers, shipbuilders, navigators and engineers.
+- **Ashen Hand** — decentralized international criminal network.
+- **Lantern Archive** — major knowledge, history, language and archaeology institution.
+- **Circle of Living Science** — decentralized scientific community.
+- **Wayfarer Churches** — multiple religions/philosophies connected by traditions of sacred journeys, without being one universal religion.
+- **Gilded Table** — powerful merchant/industrial families with political influence.
+- **Red Mile** — elite independent bounty hunters.
+- **Great Circus Network** — traveling entertainment network that also functions as an accidental information network.
+- **Black Current** — loose network of smugglers and illegal sailors.
+- **Wildlands Keepers** — conservation/local-protection organizations defending dangerous natural regions.
+
+### Important rule
+
+No major organization is universally good or universally evil. Large institutions contain ordinary workers, idealists, opportunists, corrupt members, reformers, cowards, fanatics and people simply trying to make a living.
+
+Organizations can cooperate in one situation and fight in another.
+
+### Gopal consequence
+
+Organizations should remember Gopal after he leaves. A favor, crime, rescue, betrayal, destroyed property or public incident can produce consequences much later.
+
+### Ultimate antagonist protection
+
+The ultimate antagonist's organization has deliberately NOT been designed yet.
+
+It must emerge later from:
+- the power system;
+- current-era history;
+- Gopal's true dream;
+- Ren's independent path;
+- the legendary destination architecture.
+
+This prevents the final antagonist from becoming a generic strongest faction inserted into the world.
+
+### Next dependency
+
+Build:
+
+**ECONOMY & EVERYDAY LIFE**
+
+including money, trade, occupations, food supply, education, communication, newspapers, technology, ships, insurance, ordinary work and how people actually survive.
+
+Then:
+
+**POWER SYSTEM → CURRENT ERA → GOPAL'S HOME.**
+
+### Status
+
+All organization names and structures are **PROVISIONAL**.
+
+Core direction is active:
+
+> Organizations are living networks of people and incentives, not simple factions. They remember Gopal, change when he leaves, and continue existing without him.
