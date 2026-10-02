@@ -931,3 +931,65 @@ All organization names and structures are **PROVISIONAL**.
 Core direction is active:
 
 > Organizations are living networks of people and incentives, not simple factions. They remember Gopal, change when he leaves, and continue existing without him.
+
+
+---
+
+## 2026-10-02 — ECONOMY & EVERYDAY LIFE FOUNDATION
+
+### What changed
+
+Created:
+WORLD/ECONOMY-AND-EVERYDAY-LIFE.md
+
+Commit:
+c98c1701ce220def46749cf2ca0ca06f0b51a0bb
+
+The world now has a provisional everyday-life/economic layer covering:
+- money and local currencies;
+- banking and credit;
+- trade and merchant networks;
+- shipbuilding, repair and maritime labor;
+- insurance;
+- the exploration economy;
+- ordinary occupations;
+- food systems;
+- education and literacy;
+- information and newspapers;
+- communication technology;
+- industrialization;
+- labor organizations;
+- social class;
+- migration;
+- festivals, sports and entertainment;
+- healthcare;
+- housing;
+- childhood;
+- ordinary legal liability;
+- poverty and wealth;
+- economic consequences of Gopal's actions;
+- economic effects of the Last Expedition and Last Return.
+
+### Core principle
+
+> A world becomes believable when the reader can imagine living there even if Gopal never existed.
+
+Adventure must happen inside ordinary life, and ordinary life must continue after the adventure.
+
+### Important direction
+
+The world is technologically uneven and culturally diverse. Different regions can contain different combinations of traditional craft, industrial development and advanced/specialized technology. Modern institutions should not appear identically everywhere.
+
+### Next dependency
+
+Build:
+
+**POWER SYSTEM FOUNDATION**
+
+Then:
+
+**CURRENT ERA → GOPAL'S HOME → FIRST SAGA.**
+
+### Status
+
+All economic systems, currencies, institutions and technology details are **PROVISIONAL**. Core direction is active.
