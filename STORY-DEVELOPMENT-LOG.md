@@ -993,3 +993,59 @@ Then:
 ### Status
 
 All economic systems, currencies, institutions and technology details are **PROVISIONAL**. Core direction is active.
+
+
+---
+
+## 2026-10-02 — POWER SYSTEM FOUNDATION
+
+### What changed
+
+Created:
+POWER/POWER-SYSTEM-FOUNDATION.md
+
+Commit:
+655c035e2e2a7fc783dbebbdb8988053724b6cda
+
+Established a provisional three-category supernatural architecture:
+
+1. **Innate / Species Capabilities** — biological traits, not supernatural powers.
+2. **Relic Arts** — provisional name for abilities arising through relationships with external supernatural objects/materials/phenomena.
+3. **Spiritual Power** — later-developing internal system concerning will, perception, presence, reinforcement, projection and resonance.
+
+### Core design rules
+
+- Power reveals character but does not replace character.
+- No category automatically dominates every other category.
+- Relics are not standardized magical objects and are not all combat-oriented.
+- Relic abilities require meaningful limitations and reward creativity.
+- Passage Keys are a special access-system category and are not ordinary Relics.
+- Spiritual Power enters later and should initially be mistaken for exceptional skill in some cases.
+- Species biology and supernatural ability remain separate.
+- Technology can interact with powers without becoming universal anti-power technology.
+- Powers affect ordinary society, medicine, law, crime, trade and occupations without explaining everything.
+- Fights use environment, information, preparation, teamwork and objectives rather than permanent numerical rankings.
+- Gopal's power remains intentionally underdesigned; its eventual importance should recontextualize his story rather than simply increase attack strength.
+- Ren's future ability should express his strategic/observational fighting identity without being a simple elemental opposite to Gopal.
+
+### Important restraint
+
+The manga remains adventure-first. The power system can contain mysteries, but the story must not become a power-system mystery narrative.
+
+### Next dependency
+
+Build:
+
+**CURRENT ERA**
+
+including famous people, active conflicts, current political conditions, major explorers, bounty hunters, celebrities, recent disasters, sports and events already occurring while Gopal is still a child.
+
+Then build:
+
+**GOPAL'S HOME → FIRST SAGA.**
+
+### Status
+
+All power terminology and mechanics are **PROVISIONAL**. Core direction is active:
+
+> Different sources of power answer different questions, combat rewards creativity, and character development matters more than numerical escalation.
