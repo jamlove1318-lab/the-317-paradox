@@ -1,761 +1,826 @@
-# POWER SYSTEM — FOUNDATION
+# POWER SYSTEM — FOUNDATION & THE GIFT SYSTEM
 
-> Status: PROVISIONAL
-> Purpose: establish the supernatural and combat architecture of the world without turning the manga into a pure power-scaling story.
-> Core principle: **Power reveals character. It does not replace character.**
-
----
-
-# 1. THE POWER PHILOSOPHY
-
-The world contains several kinds of extraordinary ability.
-
-They are not all the same thing.
-
-A person can become dangerous through:
-- natural physical ability;
-- training;
-- intelligence;
-- technology;
-- species traits;
-- supernatural ability;
-- spiritual mastery;
-- equipment;
-- teamwork;
-- experience;
-- preparation;
-- environmental advantage.
-
-No single category should automatically beat all others.
-
-A brilliant ordinary human should still be capable of surprising someone with supernatural power.
+> Status: PROVISIONAL — major revision
+> Purpose: create the world's primary power-giving system, its costs, counters and combat logic.
+> Core principle: **Power should feel like a gift, a bargain and a permanent change at the same time.**
 
 ---
 
-# 2. THE THREE GREAT CATEGORIES
+# 1. THE IMPORTANT CHANGE
 
-For now, the world recognizes three broad extraordinary systems:
+The previous "Relic Arts" model is **retired as the primary name/system**.
 
-## I. INNATE / SPECIES CAPABILITIES
+We need something closer to the narrative function of a power-giving phenomenon:
 
-Abilities arising naturally from biology.
+> An ordinary person should be able to encounter something extraordinary, take it into themselves, and become capable of something that was previously impossible.
+
+But we do NOT want a copy of Devil Fruits.
+
+Our system therefore needs four things:
+
+1. **A source that grants a unique ability.**
+2. **A permanent price for receiving it.**
+3. **Natural counters and conditions.**
+4. **Enough freedom for the user to develop a completely personal fighting style.**
+
+The current working system is:
+
+# THE WORLD SEEDS — PROVISIONAL
+
+A World Seed is a rare supernatural growth produced when the world's physical and spiritual forces become concentrated around a particular phenomenon.
+
+It is called a "seed" because it does not merely contain power.
+
+> **It plants a new rule inside the person.**
+
+The exact origin of World Seeds remains unknown.
+
+Different cultures have different explanations.
+
+---
+
+# 2. WHAT A WORLD SEED DOES
+
+When someone successfully bonds with a World Seed, the Seed changes the person's relationship with one particular phenomenon or principle.
+
+The resulting ability is called an:
+
+# ASPECT — PROVISIONAL
 
 Examples:
-- Talassi underwater adaptation;
-- Eyrin gliding;
-- Varkai vibration sensitivity;
-- Saaru low-light adaptation.
 
-These are NOT supernatural powers.
+- Weight
+- Friction
+- Sound
+- Reflection
+- Heat
+- Pressure
+- Distance
+- Tension
+- Growth
+- Motion
+- Shadow
+- Ink
+- Glass
+- Magnetism
+- Memory
+- Vibration
 
-They are part of being alive.
+These are examples of categories, not a final list.
 
----
+The key rule:
 
-## II. RELIC ARTS — PROVISIONAL NAME
-
-A class of supernatural abilities connected to rare external objects, phenomena or ancient materials.
-
-The word "Relic" is only a placeholder.
-
-The important rule is:
-
-> **The power comes through a relationship with something outside the person's ordinary body.**
-
-This system can eventually include:
-- strange objects;
-- ancient materials;
-- living artifacts;
-- fragments;
-- weapons;
-- tools;
-- environmental phenomena;
-- objects whose origins are misunderstood.
-
-Not every Relic is ancient.
-
-Not every Relic is powerful.
-
-Not every Relic is useful in combat.
+> **The user does not simply "cast magic." Their body has acquired an unnatural relationship with an Aspect.**
 
 ---
 
-## III. SPIRITUAL POWER — PROVISIONAL
+# 3. THE FOUR PARTS OF EVERY SEED
 
-A completely different system.
+Every World Seed has:
 
-Spiritual Power comes from the individual rather than an external object.
+### ASPECT
+What principle does it alter?
 
-It concerns:
-- will;
-- perception;
-- presence;
-- self-control;
-- emotional discipline;
-- understanding;
-- connection between mind, body and spirit.
+### GIFT
+What extraordinary ability does it provide?
 
-It is NOT simply "the stronger power level."
+### TOLL
+What does the user permanently lose or sacrifice?
 
-A person can have enormous Spiritual Power and still lose.
+### LIMIT
+Under what conditions does the ability become weak, unstable or unusable?
 
-A person with little Spiritual Power can defeat them through tactics, terrain or teamwork.
+These four things define the power.
 
 ---
 
-# 3. WHY THREE CATEGORIES?
+# 4. THE TITHE — THE PRICE OF POWER
 
-Because they answer different questions.
+A World Seed is never free.
 
-### Species
-> What are you?
+When someone bonds with one, the Seed takes something from them.
 
-### Relic Arts
-> What have you connected yourself to?
+This is called:
+
+# THE TITHE — PROVISIONAL
+
+The Tithe is not simply "energy consumption."
+
+It is a permanent alteration.
+
+The person gains an extraordinary relationship with one thing while losing or weakening an ordinary relationship with something else.
+
+Examples:
+
+### Heat Aspect
+Gift: create, absorb or redirect heat.
+
+Tithe: the user can no longer naturally feel warmth.
+
+### Sound Aspect
+Gift: manipulate sound.
+
+Tithe: the user's natural voice gradually disappears.
+
+### Friction Aspect
+Gift: increase or reduce friction.
+
+Tithe: the user's own sense of physical grip becomes abnormal.
+
+### Reflection Aspect
+Gift: manipulate reflected images/light.
+
+Tithe: the user cannot recognize their own reflection.
+
+These are design examples, not locked canon powers.
+
+---
+
+# 5. THE TITHE MUST NOT ALWAYS BE A COMBAT WEAKNESS
+
+If every Tithe exists only to balance combat, the system becomes mechanical.
+
+The Tithe can affect:
+- relationships;
+- senses;
+- lifestyle;
+- emotions;
+- occupation;
+- identity;
+- culture;
+- communication;
+- health;
+- ordinary pleasures.
+
+The price of power should sometimes hurt more **outside battle**.
+
+---
+
+# 6. THE TITHE CAN CREATE CHARACTER
+
+A World Seed user has to live with the price.
+
+A person who cannot feel heat may become obsessed with spicy food because they remember enjoying it.
+
+A person who cannot recognize faces might become extremely good at recognizing voices.
+
+A person who loses ordinary balance might build a specialized fighting style around anchors.
+
+The limitation becomes part of who they are.
+
+---
+
+# 7. THE TITHE IS NOT ALWAYS NEGATIVE
+
+Some people may consider their Tithe worth it.
+
+A person might lose their sense of pain but become a doctor.
+
+A person might lose the ability to taste but gain a power that saves their village.
+
+A person might sacrifice something voluntarily because the ability allows them to protect their family.
+
+The system therefore creates moral choices.
+
+---
+
+# 8. CAN THE TITHE BE REMOVED?
+
+Usually no.
+
+The Tithe is part of the bond.
+
+There may be extremely rare methods to alter or repair a Tithe.
+
+But such methods should be:
+- dangerous;
+- extremely rare;
+- imperfect;
+- never a casual cure.
+
+---
+
+# 9. WORLD SEEDS ARE RARE
+
+Most people will never possess one.
+
+Most soldiers still train normally.
+
+Most doctors still study medicine.
+
+Most sailors still learn navigation.
+
+A Seed user is unusual.
+
+A highly skilled Seed user is rarer.
+
+A master is extraordinary.
+
+---
+
+# 10. SEEDS ARE NOT AUTOMATICALLY STRONG
+
+A powerful-sounding Aspect can be terrible in the hands of an inexperienced person.
+
+A ridiculous-sounding Aspect can become terrifying through creativity.
+
+This allows:
+- weak abilities used brilliantly;
+- strong abilities used badly;
+- ordinary abilities used creatively;
+- characters who deliberately avoid combat.
+
+---
+
+# 11. HOW SOMEONE GETS A WORLD SEED
+
+World Seeds can be:
+- discovered in remote environments;
+- found in ancient ruins;
+- traded;
+- inherited through expeditions;
+- harvested from rare natural phenomena;
+- recovered from dangerous creatures;
+- stolen;
+- sold illegally.
+
+There should not be one universal method of finding them.
+
+---
+
+# 12. SEEDS ARE NOT CHOSEN-ONE OBJECTS
+
+A Seed does not select the hero.
+
+It can be:
+- stolen;
+- sold;
+- accidentally consumed;
+- given as a gift;
+- found by a child;
+- discovered by a scientist;
+- used by a criminal.
+
+This creates unpredictability.
+
+---
+
+# 13. CAN SOMEONE USE MORE THAN ONE?
+
+Normally:
+
+> **No.**
+
+A person's body is not designed to sustain multiple World Seed laws.
+
+Attempting to bond with another can cause:
+- rejection;
+- catastrophic physical instability;
+- loss of abilities;
+- permanent injury;
+- death.
+
+There may be legendary exceptions.
+
+But exceptions should be terrifying rather than a normal progression system.
+
+---
+
+# 14. THE COUNTER SYSTEM
+
+Every Aspect has natural counters.
+
+But there is NOT one universal "anti-Seed substance."
+
+Counters can come from:
+
+### 1. Opposing conditions
+Heat vs extreme cooling.
+
+### 2. Incompatible materials
+A particular material may resist an Aspect.
+
+### 3. Environmental denial
+Remove the conditions the user needs.
+
+### 4. Physical limitation
+Force the user into a situation where their ability cannot solve the problem.
+
+### 5. Knowledge
+Understand how the ability actually works.
+
+### 6. Spiritual Power
+Advanced Spiritual Power can eventually interfere with the user's control, perception or connection to their Aspect.
+
+### 7. The Tithe
+Exploit the weakness created by the price itself.
+
+---
+
+# 15. COUNTERS SHOULD NOT BE ROCK-PAPER-SCISSORS
+
+We do NOT want:
+
+> Fire always beats Ice.
+
+Instead:
+
+> **The situation determines the counter.**
+
+A Heat user might defeat an Ice user because they are more experienced.
+
+The Ice user might win by controlling terrain.
+
+A non-powered fighter might win by forcing the Heat user into a situation where heat cannot be safely used.
+
+---
+
+# 16. THE "READ THE POWER" PRINCIPLE
+
+Important fights should involve discovering:
+- what the opponent can affect;
+- what they cannot affect;
+- activation conditions;
+- range;
+- contact requirements;
+- precision;
+- the Tithe;
+- environmental advantages;
+- exhaustion.
+
+This makes fights about observation.
+
+---
+
+# 17. THE SAME ASPECT CAN PRODUCE DIFFERENT FIGHTERS
+
+Two people with the same Aspect should not fight identically.
+
+Two Friction users could have completely different styles.
+
+One might:
+- stop attacks;
+- climb;
+- anchor themselves.
+
+Another might:
+- accelerate;
+- slide;
+- redirect projectiles.
+
+Same underlying rule.
+
+Different personalities.
+
+---
+
+# 18. ASPECT DEPTH
+
+A good Aspect has:
+
+### Obvious use
+What everyone notices first.
+
+### Practical use
+How it helps outside combat.
+
+### Creative use
+What an intelligent user discovers.
+
+### Advanced use
+What mastery allows.
+
+### Dangerous use
+What happens when pushed too far.
+
+### Conceptual use
+What the Aspect means at the deepest level.
+
+This gives abilities room to evolve for hundreds of chapters.
+
+---
+
+# 19. AWAKENING — PROVISIONAL
+
+A Seed user may eventually discover that their Aspect is deeper than originally understood.
+
+This is NOT simply:
+> "Now my power is stronger."
+
+Instead:
+
+> **The user changes their relationship with the Aspect.**
+
+An ability becomes broader because the user's understanding became deeper.
+
+Awakening is therefore:
+- discovery;
+- mastery;
+- character development;
+- conceptual expansion.
+
+Not merely a multiplier.
+
+---
+
+# 20. OVERUSE
+
+World Seed abilities can damage the user.
+
+Possible consequences:
+- exhaustion;
+- organ stress;
+- sensory disruption;
+- Tithe intensification;
+- temporary loss of control;
+- physical injury.
+
+Avoid a universal stamina meter.
+
+Different abilities have different physiological costs.
+
+---
+
+# 21. SEED USERS IN SOCIETY
+
+Seed users can be:
+- celebrities;
+- criminals;
+- soldiers;
+- doctors;
+- workers;
+- explorers;
+- entertainers;
+- farmers;
+- researchers;
+- teachers;
+- bounty hunters.
+
+Some governments register them.
+
+Some regions distrust them.
+
+Some cultures celebrate them.
+
+Some communities hide them.
+
+---
+
+# 22. SEED-BASED PROFESSIONS
+
+Examples:
+
+### Agriculture
+Growth/soil/water-related Aspects.
+
+### Construction
+Stone/pressure/structure-related Aspects.
+
+### Navigation
+Wind/current/light-related Aspects.
+
+### Medicine
+Preservation/temperature/biological-related Aspects.
+
+### Entertainment
+Sound/light/illusion-related Aspects.
+
+### Industry
+Heat/magnetism/friction/material-related Aspects.
+
+This makes supernatural power part of the economy without making every profession supernatural.
+
+---
+
+# 23. SEED BLACK MARKET
+
+Because World Seeds grant extraordinary abilities, criminals trade them.
+
+The black market contains:
+- genuine Seeds;
+- fakes;
+- stolen Seeds;
+- dangerous unidentified Seeds;
+- information about Seed locations;
+- illegal experimentation.
+
+This naturally connects to:
+- Ashen Hand;
+- bounty hunters;
+- explorers;
+- scientists;
+- World Patrol.
+
+But no organization secretly controls every Seed.
+
+---
+
+# 24. SEED IDENTIFICATION
+
+A newly discovered Seed may not reveal its Aspect immediately.
+
+Researchers can use:
+- testing;
+- historical records;
+- controlled experiments;
+- observation.
+
+A dangerous Seed might be stored for years because nobody knows what it does.
+
+---
+
+# 25. SEED CULTURES
+
+Different civilizations interpret World Seeds differently.
+
+One culture might call them:
+> Gifts of the World.
+
+Another:
+> Dangerous wounds in nature.
+
+Another:
+> Sacred births.
+
+Another:
+> Tools.
+
+All may possess partial truths.
+
+---
+
+# 26. THE ORIGIN QUESTION
+
+The true origin of World Seeds is deliberately OPEN.
+
+Possibilities can involve:
+- natural evolution;
+- ancient civilization;
+- spiritual phenomena;
+- the world's deeper structure;
+- something outside ordinary reality.
+
+Do not decide yet.
+
+---
+
+# 27. WORLD SEEDS AND PASSAGE KEYS
+
+A Passage Key may interact with World Seeds because both involve the world's deeper laws.
+
+But:
+
+> **A Passage Key is not simply a powerful World Seed.**
+
+The Key belongs to an access system.
+
+A Seed gives an individual an unusual relationship with an Aspect.
+
+Those are fundamentally different functions.
+
+This protects the legendary destination from becoming "the source of all powers."
+
+---
+
+# 28. SPIRITUAL POWER
+
+Spiritual Power remains the internal system.
+
+The distinction becomes:
+
+### World Seed
+> The world gives you a new rule.
 
 ### Spiritual Power
-> What have you developed within yourself?
+> You develop your own force.
 
-This prevents one system from explaining the entire universe.
+One is received.
 
----
+One is cultivated.
 
-# 4. RELIC ARTS — THE BASIC MODEL
+One changes your relationship with the world.
 
-A Relic is not a generic magical fruit or standardized item.
-
-Each Relic has:
-- a nature;
-- a limitation;
-- a behavior;
-- a cost;
-- a relationship with its user;
-- a way it can be misunderstood.
-
-A Relic might:
-- alter weight;
-- store sound;
-- manipulate reflected light;
-- change friction;
-- grow temporary structures;
-- redirect momentum;
-- preserve heat;
-- manipulate ink;
-- alter the behavior of a particular material;
-- create unusual biological effects.
-
-The important question is not:
-
-> "How destructive is it?"
-
-It is:
-
-> **"What can someone creatively do with it?"**
+One changes your relationship with yourself.
 
 ---
 
-# 5. RELICS SHOULD HAVE LIMITS
+# 29. SPIRITUAL POWER AS COUNTER
 
-Every useful Relic ability needs constraints.
+A sufficiently advanced spiritual user may eventually:
+- resist an Aspect;
+- sense its activation;
+- disrupt concentration;
+- reinforce their body against effects;
+- attack the user's control;
+- interact with supernatural phenomena.
 
-Possible constraints:
-- range;
-- duration;
-- material requirements;
-- physical exhaustion;
-- environmental conditions;
-- preparation time;
-- precision;
-- emotional instability;
-- limited charges;
-- recoil;
-- user compatibility;
-- dangerous side effects.
+But Spiritual Power should NOT make Seed users irrelevant.
 
-A limitation should create strategy rather than simply saying:
-
-> "It can only be used three times."
+A master Seed user remains terrifying.
 
 ---
 
-# 6. RELICS CAN BE WEIRD
+# 30. GOPAL
 
-Some of the best abilities should initially sound ridiculous.
+Gopal's eventual Seed/ability is intentionally UNKNOWN.
 
-Examples:
+Requirements:
 
-### Thread of Weight
-Can make a connected object temporarily heavier or lighter.
+- appear simple early;
+- have obvious limitations;
+- possess an unusual Tithe;
+- reward his natural improvisation;
+- become more interesting as he understands it;
+- eventually reveal a deeper conceptual meaning;
+- connect to his hidden story without making him a chosen hero.
 
-### Bellglass
-Can capture a sound and release it later.
+His ultimate revelation should make readers think:
 
-### Red Chalk
-Anything drawn with it becomes temporarily slippery.
+> "It was always there."
 
-### Stillwater Nail
-Stops movement of water touching one side of a surface.
+Not:
 
-### Lantern Moth
-Stores a small amount of light and releases it as directional illumination.
-
-These are examples of design philosophy, NOT canon abilities.
-
-The reader should be able to think:
-
-> "That power sounds stupid."
-
-Then watch an intelligent character do something incredible with it.
+> "The author just gave him a new power."
 
 ---
 
-# 7. RELICS ARE NOT ALL COMBAT OBJECTS
+# 31. REN
 
-Relics can be used for:
-- medicine;
-- agriculture;
-- construction;
-- navigation;
-- communication;
-- cooking;
-- transportation;
-- art;
-- entertainment;
-- mining;
-- rescue;
-- warfare;
-- crime.
+Ren's power should fit his strategic identity.
 
-This makes supernatural ability part of civilization.
-
----
-
-# 8. RELIC ECONOMY
-
-Because Relics have practical value, societies have developed:
-- collectors;
-- researchers;
-- dealers;
-- counterfeiters;
-- museums;
-- laboratories;
-- hunters;
-- smugglers;
-- governments;
-- private security.
-
-Some people own Relics without being fighters.
-
-A farmer may own one that improves irrigation.
-
-A doctor may own one that preserves medicine.
-
-A musician may own one that changes acoustics.
-
-This keeps the system connected to everyday life.
-
----
-
-# 9. RELIC COUNTERFEITS
-
-A major industry exists around fake Relics.
-
-Counterfeits can be:
-- useless;
-- dangerous;
-- partially functional;
-- deliberately misleading.
-
-This creates natural adventure stories without requiring a world-ending threat.
-
----
-
-# 10. RELIC COMPATIBILITY
-
-A Relic does not necessarily work identically for every person.
-
-Compatibility can depend on:
-- physiology;
-- technique;
-- temperament;
-- experience;
-- physical contact;
-- training.
-
-However:
-
-> **Relics do not choose a destined hero.**
-
-No prophecy should be required.
-
----
-
-# 11. PASSAGE KEYS ARE DIFFERENT
-
-The Passage Keys belong to the access system connected to the legendary destination.
-
-They are not simply ordinary Relics.
-
-A Passage Key may interact with supernatural phenomena, but its primary purpose is:
-
-> **making an otherwise impossible route possible under the correct conditions.**
-
-Ren discovering one therefore matters because he found an actual component of the access system.
-
-Not because he was chosen.
-
-Not because the Key chose him.
-
----
-
-# 12. SPIRITUAL POWER
-
-Spiritual Power should enter the story later.
-
-Early readers should understand the world perfectly well without it.
-
-At first they may hear:
-- martial artists talking about "presence";
-- navigators sensing changes;
-- old fighters discussing instinct;
-- monks practicing breathing;
-- masters reacting before attacks happen.
-
-The audience may initially interpret this as skill.
-
-Eventually the story reveals that something deeper exists.
-
----
-
-# 13. SPIRITUAL POWER — FOUR EXPRESSIONS
-
-The system can eventually develop into four broad expressions.
-
-### Presence
-Awareness of people, movement and intent.
-
-### Reinforcement
-Strengthening body, tools or actions through spiritual force.
-
-### Projection
-Extending spiritual force beyond the immediate body.
-
-### Resonance
-Interacting with another person's spiritual state, environment or supernatural phenomena.
-
-These are broad categories, not rigid skill trees.
-
-A master may use them differently.
-
----
-
-# 14. SPIRITUAL POWER IS PERSONAL
-
-Two people with equal potential should not fight identically.
-
-Spiritual Power develops through:
-- personality;
-- discipline;
-- experience;
-- fear;
-- conviction;
-- relationships;
-- failure;
-- understanding.
-
-This means character development can directly affect combat without turning emotional speeches into automatic power-ups.
-
----
-
-# 15. SPIRITUAL GROWTH
-
-A character can become stronger because they:
-- learn something about themselves;
-- overcome a limitation;
-- change their fighting philosophy;
-- accept responsibility;
-- stop pretending;
-- develop discipline;
-- learn to trust someone;
-- become more precise.
-
-But emotional trauma is not a mandatory upgrade mechanism.
-
-Growth should feel earned.
-
----
-
-# 16. POWER DOES NOT EQUAL MORALITY
-
-A kind person can have terrifying power.
-
-A cruel person can have weak power.
-
-A coward can possess enormous potential.
-
-A hero can abuse their ability.
-
-A villain can use a harmless ability brilliantly.
-
-No supernatural category should encode good and evil.
-
----
-
-# 17. FIGHT DESIGN
-
-A good fight should answer at least one character question.
-
-Examples:
-
-> What is Gopal willing to risk?
-
-> Can Ren trust his teammates?
-
-> Will a character protect someone they dislike?
-
-> Has someone learned from their previous defeat?
-
-> Can an arrogant fighter accept help?
-
-Combat should reveal personality.
-
----
-
-# 18. ENVIRONMENT MATTERS
-
-A fight should interact with:
-- weather;
-- buildings;
-- water;
-- cliffs;
-- crowds;
-- vehicles;
-- machinery;
-- wildlife;
-- terrain;
-- objects.
-
-A weaker fighter can win because they understand the environment.
-
-This is essential to prevent endless raw-stat escalation.
-
----
-
-# 19. TEAMWORK
-
-Teamwork should not simply mean:
-
-> "Everyone attacks at once."
-
-Characters should have complementary capabilities.
-
-Examples:
-- one controls movement;
-- one creates openings;
-- one protects civilians;
-- one reads the opponent;
-- one manages terrain;
-- one handles rescue;
-- one provides medical support.
-
-This will become especially important for Gopal's permanent companions.
-
----
-
-# 20. LOSSES
-
-A character can lose because:
-- they are weaker;
-- they make a mistake;
-- their ability is countered;
-- they protect someone;
-- they misunderstand the situation;
-- they run out of resources;
-- they are injured;
-- they become emotionally compromised;
-- they are strategically outplayed.
-
-A loss does not always mean the character needs a new power.
-
----
-
-# 21. POWER CEILINGS
-
-There should be meaningful differences between:
-- ordinary fighters;
-- trained professionals;
-- elite combatants;
-- regional monsters;
-- world-class fighters;
-- legendary figures;
-- extraordinary spiritual masters.
-
-But the scale should not become so extreme that ordinary people stop mattering.
-
-A village guard should still be capable of protecting a village from ordinary criminals.
-
----
-
-# 22. GOPAL'S POWER
-
-Gopal's ability remains deliberately underdesigned at this stage.
-
-We know the narrative requirement:
-
-### Early appearance
-His power should look relatively simple.
-
-### Mid-story
-Readers discover unusual properties.
-
-### Later
-Its relationship to the deeper world becomes significant.
-
-### Endgame
-Its true meaning can reach god-tier conceptual importance.
-
-The important rule:
-
-> **Gopal's ultimate significance must recontextualize his story, not merely make his attacks bigger.**
-
-His power should feel like something readers could understand in hindsight.
-
----
-
-# 23. REN'S POWER
-
-Ren should have an independently developed ability.
-
-It should complement:
-- planning;
+It should reward:
 - observation;
-- positioning;
 - preparation;
+- positioning;
+- timing;
+- controlled risk;
 - teamwork.
 
-It should NOT simply be "Gopal's opposite element."
+His Tithe should also affect his personality/life, not merely combat.
 
-Ren's fighting identity:
-
-> **understand the situation → create an advantage → force the opponent into a decision.**
-
-His eventual ability should make that philosophy visible.
+Ren should be formidable because Ren is Ren, not because his ability is designed to rival Gopal's.
 
 ---
 
-# 24. POWER DISCOVERY
+# 32. POWER WITHOUT A SEED
 
-Characters should not immediately know the complete mechanics of their own abilities.
+An ordinary human can still become extraordinary through:
+- martial arts;
+- weapons;
+- engineering;
+- medicine;
+- tactics;
+- physical conditioning;
+- Spiritual Power;
+- specialized training;
+- experience.
 
-People learn through:
-- experimentation;
-- failure;
-- teachers;
-- observation;
-- old records;
-- combat;
-- accidents.
+A Seed gives an extraordinary tool.
 
-Different cultures may describe the same phenomenon differently.
-
-A scientist may call it one thing.
-
-A monk another.
-
-A sailor another.
-
-A child another.
-
-All can be describing parts of the same phenomenon.
+It does not automatically give courage, intelligence, discipline, battle experience or leadership.
 
 ---
 
-# 25. POWER AND TECHNOLOGY
+# 33. THE THREE-WAY COMBAT MODEL
 
-Technology can counter supernatural abilities.
+A fight can involve:
 
-Examples:
-- restraints;
-- insulation;
-- specialized armor;
-- detection devices;
-- environmental tools;
-- communication systems;
-- medical equipment.
+### Seed User
+Extraordinary external ability + permanent Tithe.
 
-But technology should not simply become "anti-power technology" everywhere.
+### Natural/Trained Fighter
+Skill + body + equipment + experience.
 
-Most technology exists for ordinary reasons.
+### Spiritual Fighter
+Internal force + perception + discipline.
 
----
+Characters can overlap.
 
-# 26. POWER AND LAW
+A Seed user can learn Spiritual Power.
 
-Governments regulate some abilities.
+A normal fighter can learn Spiritual Power.
 
-Possible laws:
-- dangerous Relics require registration;
-- certain abilities cannot be used in cities;
-- supernatural combat near ports is restricted;
-- some artifacts are classified;
-- unlicensed bounty hunters can be arrested;
-- dangerous experiments require permits.
+A Seed user can become an expert martial artist.
 
-Different governments enforce these differently.
-
-This creates story friction.
+A genius can defeat someone with vastly greater raw power.
 
 ---
 
-# 27. POWER AND CRIME
+# 34. POWER ESCALATION
 
-Criminal use includes:
-- theft;
-- assassination;
-- smuggling;
-- fraud;
-- sabotage;
-- blackmail;
-- illegal experiments.
+We will NOT escalate by endlessly creating:
+- bigger explosions;
+- larger energy beams;
+- higher numbers.
 
-But most criminals still use ordinary methods.
-
-Not every thief has a supernatural ability.
-
----
-
-# 28. POWER AND MEDICINE
-
-Supernatural abilities can affect medicine.
-
-But they should not eliminate:
-- disease;
-- injury;
-- surgery;
-- recovery;
-- disability;
-- aging.
-
-A rare ability may help with one specific problem without becoming universal healing.
-
-This preserves medical characters and consequences.
+Instead escalation comes from:
+- more creative applications;
+- better control;
+- greater understanding;
+- stronger will;
+- better teamwork;
+- more dangerous environments;
+- more complicated objectives;
+- deeper consequences.
 
 ---
 
-# 29. POWER AND SPECIES
+# 35. THE FOUR-LAYER FIGHT MODEL
 
-Species traits and supernatural abilities should remain separate.
+When designing an important fight, ask:
 
-A Talassi is not powerful because they are Talassi.
+### Layer 1 — Ability
+What can they do?
 
-A Human can become extraordinary.
+### Layer 2 — Limitation
+What prevents them from doing everything?
 
-A Varkai farmer may never fight anyone.
+### Layer 3 — Person
+Why do they fight this way?
 
-A Korrun doctor may be physically strong but have no supernatural ability.
+### Layer 4 — Situation
+What does the environment/objective/change of circumstances do?
 
-This preserves individuality.
-
----
-
-# 30. POWER HISTORY
-
-Ancient civilizations should have had their own understanding of extraordinary abilities.
-
-Modern terminology may be wrong.
-
-Old texts may:
-- use different names;
-- combine phenomena we now separate;
-- misunderstand causes;
-- describe real effects through religious language.
-
-This creates historical depth without requiring every ancient culture to know the truth.
+If all four are strong, the fight should feel unique.
 
 ---
 
-# 31. POWER MYSTERY — WITH RESTRAINT
+# 36. EXAMPLE OF A COMPLETE POWER
 
-The power system can contain mysteries.
+## Aspect: PRESSURE — example only
 
-But the manga is NOT a power-system mystery story.
+Gift:
+Can increase or decrease pressure within a limited area.
 
-Readers should spend much more time thinking:
+Tithe:
+User permanently loses their normal sense of atmospheric pressure.
 
-> "What happens next?"
+Limit:
+Precision falls rapidly with distance.
 
-than:
+Obvious combat use:
+Crush or repel objects.
 
-> "What exactly is this energy?"
+Creative use:
+- launch themselves;
+- redirect projectiles;
+- create temporary air barriers;
+- alter boiling points;
+- assist diving;
+- disrupt machinery.
 
-The system should support adventure.
+Counter:
+- rapidly changing terrain;
+- dispersed environments;
+- attacks that force constant repositioning;
+- spiritual disruption of concentration.
 
-It should never consume the adventure.
+Character effect:
+The user becomes obsessed with weather because they cannot naturally "feel" approaching storms.
 
----
-
-# 32. THE EVENTUAL DEEPER STRUCTURE
-
-The current three-category model is deliberately incomplete.
-
-Later we may discover:
-- relationships between Relic Arts and Spiritual Power;
-- historical misuse of terminology;
-- ancient techniques thought impossible;
-- abilities that do not fit current categories;
-- natural phenomena mistaken for supernatural powers;
-- connections between certain artifacts and the Passage Key system.
-
-But these discoveries should come naturally through the story.
-
----
-
-# 33. POWER-SCALING PHILOSOPHY
-
-Do not use a permanent numerical ranking.
-
-No:
-- official "power level 9000";
-- universal tier list;
-- one stat deciding every fight.
-
-Instead evaluate situations through:
-- capability;
-- compatibility;
-- experience;
-- terrain;
-- information;
-- stamina;
-- teamwork;
-- preparation;
-- psychology;
-- objectives.
-
-The strongest person does not automatically win every fight.
+This is the level of design we want.
 
 ---
 
-# 34. FUTURE POWER REVELATION RULE
+# 37. THE POWER SYSTEM'S PROMISE
 
-Every major power revelation should do at least one of these:
+A reader should see a new Seed and wonder:
 
-1. change how we understand a character;
-2. change how we understand history;
-3. change how a fight can be approached;
-4. change how society uses the ability;
-5. create a new adventure possibility.
+> "What does it do?"
 
-A revelation that only says:
+Then:
 
-> "This attack is 10x stronger."
+> "What does it cost?"
 
-is not enough.
+Then:
+
+> "How is this person going to use it?"
+
+Then, hundreds of chapters later:
+
+> "Wait... THAT is what the ability actually means?"
+
+That is the desired progression.
 
 ---
 
-# 35. CURRENT WORLD ARCHITECTURE
+# 38. WHAT WE ARE NOT DOING
 
-We now have:
+We are NOT building:
+
+- a direct Devil Fruit copy;
+- identical power categories;
+- a universal elemental chart;
+- a numerical power-level system;
+- an ability lottery where everyone becomes a fighter;
+- free powers with no consequences;
+- automatic chosen-one artifacts;
+- a system where the strongest ability always wins;
+- a world where every mystery is caused by the power system.
+
+---
+
+# 39. CURRENT WORLD ARCHITECTURE
 
 ### Layer 1 — Geography
 Where people live and how they travel.
@@ -773,47 +838,52 @@ Institutions, companies, guilds, criminals, explorers, religions and law.
 Work, money, food, education, communication, technology, class and trade.
 
 ### Layer 6 — Power System
-Species capabilities, Relic Arts and later Spiritual Power.
+- World Seeds;
+- Aspects;
+- Tithes;
+- natural counters;
+- trained combat;
+- later Spiritual Power;
+- Passage Keys as a distinct access-system phenomenon.
 
 Next:
 
 ### Layer 7 — CURRENT ERA
 
-This is where we define the world immediately before Gopal's story:
-- famous explorers;
-- famous criminals;
-- major bounty hunters;
-- World Patrol legends;
-- current wars;
-- recent disasters;
-- sports stars;
-- celebrities;
-- political leaders;
-- rising organizations;
-- active expedition races;
-- ordinary people who matter later;
-- events happening while Gopal is still a child.
-
 Then:
 
 ### Layer 8 — GOPAL'S HOME
 
-Only after the current era is alive do we build Gopal's home.
+Then:
+
+### Layer 9 — FIRST SAGA
 
 ---
 
 # FINAL PRINCIPLE
 
-> **A power should make a character more interesting, not make the character interesting.**
+> **A World Seed gives you something the ordinary human body was never meant to have — and takes something ordinary away in return.**
 
-The world is still bigger than its strongest fighters.
+Power is therefore not just a gift.
+
+It is a choice.
+
+It is a burden.
+
+It is a lifestyle.
+
+It is a source of possibility.
+
+And it is a source of consequence.
 
 ---
 
 # STATUS
 
-All power-system terminology, categories, examples and mechanics are **PROVISIONAL**.
+**WORLD SEEDS / ASPECTS / TITHES are PROVISIONAL working terminology.**
 
-The permanent direction is:
+The previous "Relic Arts" primary system is retired.
 
-> **Different sources of power answer different questions, combat rewards creativity, and character development matters more than numerical escalation.**
+The permanent design direction is active:
+
+> **Ordinary people can acquire extraordinary powers, every power has a meaningful price and meaningful counters, and mastery comes from creativity and character rather than numerical escalation.**
