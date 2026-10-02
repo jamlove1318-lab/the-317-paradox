@@ -763,3 +763,95 @@ MAJOR CIVILIZATIONS & CULTURAL REGIONS
 We now need to design kingdoms, republics, empires, free territories, mixed-species cities, trade powers, frontier regions, isolated cultures, current wars, political tensions, World Patrol relationships, famous festivals, major ports and ordinary towns.
 
 The world should begin feeling like a real planet before we return to the legendary destination.
+
+
+---
+
+## 2026-10-02 — MAJOR CIVILIZATIONS & CULTURAL REGIONS FOUNDATION
+
+### What changed
+
+Created:
+WORLD/MAJOR-CIVILIZATIONS-AND-CULTURAL-REGIONS.md
+
+Commit:
+68ac0db1fa99903bdba4e383bfcbcd48c7069fc5
+
+The world now has a provisional civilization layer above geography and species.
+
+### Initial major civilizational zones
+
+1. **Arcadian Commonwealth** — federation of city republics built around trade, civic institutions and shared infrastructure.
+2. **Varesh Empire** — enormous old imperial power with provincial politics, military roads and growing reform pressure.
+3. **Talassi Delta League** — network of river cities organized around water management, flood control and trade.
+4. **Korrun Holds** — mountain confederacy built around local autonomy, engineering, mining and disaster response.
+5. **Noctis Cities** — independent desert-edge trade cities with night-centered urban culture and water politics.
+6. **Aerie States** — cliff republics whose society is shaped by vertical infrastructure, gliding and aerial transport.
+7. **Moruan Long Valleys** — old agricultural societies with overlapping generations, land politics and generational reform.
+8. **Nem Free Cities** — independent commercial/artistic cities with major cultural industries and growing corporate influence.
+9. **Wildermarch** — frontier region without unified government, containing settlements, companies, local communities and criminal groups.
+10. **Calder Free Harbor** — independent international port where merchants, adventurers, criminals, diplomats and travelers collide.
+
+### Important rule
+
+These are not the whole world.
+
+Each zone contains smaller countries, towns, islands, autonomous territories, religious communities, local cultures and internal political factions.
+
+Species and civilizations remain separate concepts.
+
+### Current-era change
+
+The world is not politically frozen.
+
+Current pressures include:
+- industrial expansion;
+- increased long-distance travel;
+- faster communication;
+- expanding World Patrol presence;
+- growing bounty culture;
+- species migration;
+- weakening old institutions;
+- rising merchant/private powers;
+- an exploration boom around the legendary destination.
+
+Most ordinary people remain concerned with ordinary life.
+
+### Adventure-first consequence
+
+The civilizations were deliberately designed so each can support many kinds of stories without requiring the legendary destination.
+
+Possible adventures include:
+- festivals;
+- sports;
+- rescue;
+- crime;
+- political conflict;
+- exploration;
+- bounty hunting;
+- family stories;
+- natural disasters;
+- trade disputes;
+- comedy;
+- war;
+- scientific expeditions;
+- ordinary travel.
+
+### Next dependency
+
+Build the organization layer:
+
+**World Patrol + bounty institutions + exploration companies + merchant powers + criminal networks + religious organizations + scientific institutions + other recurring groups.**
+
+After that:
+
+**economy/trade/everyday life → power-system foundation → current-era famous people/events → Gopal's home region → first major companion → first saga.**
+
+### Status
+
+All civilization names and details are **PROVISIONAL**.
+
+Core direction is active:
+
+> A civilization should be capable of producing ten different stories before Gopal ever arrives.
+
