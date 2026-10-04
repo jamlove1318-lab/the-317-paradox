@@ -198,6 +198,96 @@ Then:
 
 **FIRST SAGA ARCHITECTURE.**
 
+
+---
+
+## 2026-10-04 — STORY ENGINE & READER HOOK ARCHITECTURE
+
+### Major correction
+
+We identified a central weakness in the previous development process:
+
+**The world was becoming detailed, but the story was not yet producing enough reasons for readers to urgently want the next chapter.**
+
+Worldbuilding is infrastructure. It is not the same thing as narrative momentum.
+
+Created:
+
+STORY/STORY-ENGINE-AND-READER-HOOK-ARCHITECTURE.md
+
+Commit:
+ac94a1d1fdb6f5d06cd459e154bbb147de7510aa
+
+### New core principle
+
+> **Do not design chapters first. Design anticipation first.**
+
+The primary story-design question is now:
+
+> **“What will make the reader want the next chapter?”**
+
+### Eight active story engines
+
+1. **The Journey** — adventure and unpredictable places/situations.
+2. **The People** — characters readers want to spend time with and follow after their arcs.
+3. **Rivalries & Competing Dreams** — multiple independent people pursuing different goals.
+4. **The World Moves** — events continue while Gopal is elsewhere.
+5. **Returns & Payoffs** — characters, objects, jokes, promises and consequences can return later.
+6. **Questions & Future Possibilities** — mysteries exist, but the manga is not mystery-driven.
+7. **The “I Need to See This” Moment** — major future events readers actively anticipate.
+8. **The Unexpected** — surprising but earned reversals and developments.
+
+### Major structural correction
+
+The manga should not be designed as:
+
+**world → Gopal → destination**
+
+Instead, it should operate through interacting tracks:
+
+**Gopal ↔ companions ↔ rivals ↔ Ren ↔ factions ↔ world events ↔ character dreams ↔ power ↔ history ↔ destination**
+
+Major sagas should emerge when these tracks collide.
+
+### Arc-design rule
+
+Every major arc needs its own attraction beyond lore:
+- immediate attraction;
+- character desire;
+- conflict;
+- relationship;
+- escalation;
+- choice;
+- consequence;
+- future hook.
+
+### New development phase
+
+Before rebuilding Chapter 1, we should create the **Reader Desire Map** covering:
+- major future “I need to see this” moments;
+- first core companions and reader hooks;
+- recurring rivals;
+- recurring characters and returns;
+- major adventure arcs;
+- spectacles and competitions;
+- victories, defeats and losses;
+- reunions;
+- world events;
+- character dreams and progress;
+- long-term planted elements/payoffs;
+- events occurring away from Gopal;
+- first major saga-level collision.
+
+This is now the immediate next story-design dependency.
+
+### Important philosophy
+
+The legendary destination remains the horizon, not the entire plot.
+
+The destination gives the journey direction.
+
+**The characters, adventures, rivalries, dreams, conflicts, surprises and consequences give the journey meaning.**
+
 ---
 
 # CURRENT STORY THESIS
@@ -206,6 +296,12 @@ The manga is not about a boy simply leaving home to find a legendary place.
 
 It is about a world already in motion, a boy who enters that world, the people he builds a life with, the childhood promise he cannot fully explain, the friend who disappeared but continued living elsewhere, and the enormous consequences that emerge when two people who once dreamed together finally meet again after becoming completely different people.
 
+The story must now also answer a harder question continuously:
+
+> **Why does the reader need to see what happens next?**
+
 The destination is important.
 
 The people are the reason the destination matters.
+
+**Anticipation is now a core design requirement.**
